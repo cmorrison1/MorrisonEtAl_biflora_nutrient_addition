@@ -221,7 +221,7 @@ r.squaredGLMM(finalModel2)
 
 ### Are the nitrogen levels significantly different from each other?
 above.t5$nitrate <- as.factor(above.t5$nitrate)
-posthoc<-lme(mass_above ~ nitrate, random = ~1|individual/genotype,,
+posthoc<-lme(mass_above ~ nitrate, random = ~1|individual/genotype,
              method = "REML",data=above.t5)
 summary(glht(posthoc, linfct=mcp(nitrate="Tukey")))
 #                    Estimate Std. Error z value Pr(>|z|)    

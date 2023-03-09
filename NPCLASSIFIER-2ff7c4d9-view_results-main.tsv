@@ -1,0 +1,786 @@
+smiles	class_results	superclass_results	pathway_results	isglycoside
+CCOC(=O)C(CC(=O)C1=CC=CC=C1)NC(C)C(=O)O	Dipeptides	Small peptides	Amino acids and Peptides	False
+CC1C(=O)C(C(C(O1)C2=C(C3=C(C=C2O)OC(=CC3=O)C4=CC(=C(C=C4)O)OC)O)O)O	Flavones	Flavonoids	Shikimates and Phenylpropanoids	False
+C1C(C(C(C(O1)OC2=CC(=CC(=C2C(=O)C3=CC(=CC(=C3)O)O)O)O)OC(=O)C4=CC=CC=C4)O)O	Acyl phloroglucinols	Phloroglucinols	Polyketides	True
+CCCCCCCCC=CC=CCCCCCCCCCCCCCCC=CC=CCCCC(=O)OCC(CO)O	Diacylglycerols	Glycerolipids	Fatty acids	False
+C=C(CO)C(C#N)OC1C(C(C(C(O1)CO)O)O)O	Cyanogenic glycosides	Amino acid glycosides	Amino acids and Peptides	True
+CC(=O)C(CC=C)C(=O)OC	Wax monoesters	Fatty esters	Fatty acids	False
+CC(C)C(C)CCC(C)C1CCC2C1(CCC3C2CCC4=CC(=O)CCC34C)C	Cholestane steroids,Ergostane steroids	Steroids	Terpenoids	False
+CCCCCC=CCC=CCC=CCC=CCCCC(=O)OC1CC(OC1CCCCC)C(CCCCCCCC=C)O			Fatty acids	False
+CCCCCC#COC(=O)OC	Wax monoesters	Fatty esters	Fatty acids	False
+CC1=CC(=C(C2=C1C(=O)C=C(O2)CC(=O)C)C3C(C(C(C(O3)CO)O)O)O)O	Chromones	Chromanes	Polyketides	False
+CCCCCCC12CC3CCC4CC5(C(C6(C4C3(C(C1(CCC7(C2CC(CC7)(C)C(=O)[O-])C)C)CC6)C)CO5)CCC)O	Lupane triterpenoids	Triterpenoids	Terpenoids	True
+CCCCCC=CCC=CCC=CCC1C(O1)CCCC(=O)OC	Epoxyeicosatrienoic acids	Eicosanoids	Fatty acids	False
+CCCCC(=O)C=CC=CC(=O)CCCCCCCC(=O)O	Other Octadecanoids	Octadecanoids	Fatty acids	False
+CCCCCC#COC(=O)OC	Wax monoesters	Fatty esters	Fatty acids	False
+CC1C(C(C(C(O1)OCC2C(C(C(C(O2)OC3=CC(=C4C(=C3)OC(=CC4=O)C5=CC(=C(C=C5)O)O)O)O)O)O)O)O)O	Flavones	Flavonoids	Shikimates and Phenylpropanoids	True
+C1=CC=C(C=C1)CC=CCC(=O)CCC(=O)O			Fatty acids	False
+CCC=CCC=CCC=CCC=CCCC(=O)CCC=CCC=CCC=CCC=CCC	Hydrocarbons	Fatty acyls	Fatty acids	False
+CCCCC(=O)C=CC=CC(=O)CCCCCCCC(=O)O	Other Octadecanoids	Octadecanoids	Fatty acids	False
+CC1CCC(C2(C1CC3C(C(=O)OC3C2)C)C)OC4C(C(C(C(O4)CO)O)O)O	Eudesmane sesquiterpenoids	Sesquiterpenoids	Terpenoids	True
+CC12CCC3(CC1CCC4C2CCC5(C4CCC5(C)O)C)CS3	Androstane steroids	Steroids	Terpenoids	False
+C1=CC=C(C=C1)NC2=CC=CC=C2			Shikimates and Phenylpropanoids	False
+C(CC(=O)C[N+]#N)CN(CCN(CCC(=O)O)[N+](=O)[O-])[N+](=O)[O-]	Polyamines	Ornithine alkaloids	Alkaloids	False
+C[N+](C)(C)CCOP(=O)(O)O			Fatty acids	False
+CCC(CO)NC1=NC2=C(N1CCO)C(=O)N(C(=O)N2C)C	Purine alkaloids	Pseudoalkaloids	Alkaloids	False
+CCCCCC=CCC=CCCCCCCCC(=O)OCC1CO1			Fatty acids	False
+CCCCCCCCCCC=CCCC1C(O1)CCC2C(O2)CCCCCCCCCCCCC3=CC(OC3=O)C	Acetogenins	Linear polyketides	Polyketides	False
+CCC(C)C(=O)OC1CC(C=C2C1C(C(C=C2)C)CCC(CC(CC(=O)O)O)O)C	Monacolins and Monacolin derivatives	Cyclic polyketides	Polyketides	False
+COC1=C(C=CC(=C1)C(CC(=O)OC)C2=C(C=C(C3=C2OC(=C(C3=O)O)C4=CC(=C(C=C4)O)O)O)O)O	Flavonols	Flavonoids	Shikimates and Phenylpropanoids	False
+CC(=CCCC(=CCCC(=CCCC(=O)C)C)C)C	Fatty aldehydes,Hydrocarbons	Fatty acyls	Fatty acids	False
+CC12CCC3C4(CCC(C(C4CCC3(C1)C=C2)(C)C(=O)O)O)C	Beyerane diterpenoids,Norkaurane diterpenoids	Diterpenoids	Terpenoids	False
+CN1NC(=O)NN(P1(=O)OC2=CC=CC=C2)C	Imidazole alkaloids	Histidine alkaloids	Alkaloids	False
+CC1(CC2C3=CC(=O)C4C56CCCCC4(C3(CC(C2(C7(C1)CCCC7)CO)O)C)CCC5C(C(CC6)O)(C)CO)C			Terpenoids	False
+C(CC(=O)C[N+]#N)CN(CCN(CCC(=O)O)[N+](=O)[O-])[N+](=O)[O-]	Polyamines	Ornithine alkaloids	Alkaloids	False
+C1=CC=C(C=C1)NC2=CC=CC=C2			Shikimates and Phenylpropanoids	False
+CCOC(=O)CCCCCCC1=CCCC1=O				False
+CCCCCCCCCCCCCCCC(=O)OCC(CO)OC(=O)CCCCCCCC=CCC=CCC=CCC	Diacylglycerols	Glycerolipids	Fatty acids	False
+CN(C)C1=CC=C(C=C1)C(=O)NCC2C(C(C(O2)CO)O)N3CCCC3COC			Alkaloids	False
+CCCCCC=CCC=CCC=CCC=CCCCC(=O)OC1CC(OC1CCCCC)C(CCCCCCCC=C)O			Fatty acids	False
+C1=CC=C(C=C1)CC(C(=O)O)N	Aminoacids	Small peptides	Amino acids and Peptides,Shikimates and Phenylpropanoids	False
+CCCCCCCC(=O)C1C(=O)CCCC1=O	Simple cyclic polyketides	Cyclic polyketides	Polyketides	False
+CCCCCCCCC=CC=CCCCCCCCCCCCCCCC=CC=CCCCC(=O)OC(CO)CO	Diacylglycerols	Glycerolipids	Fatty acids	False
+CCCCCCCCCCCCCCCC(C(CO)N)O	Sphingoid bases	Sphingolipids	Fatty acids	False
+CC(=O)C(CC=C)C(=O)OC	Wax monoesters	Fatty esters	Fatty acids	False
+CC1CC2C(CC3(C1C(C(C3OC(=O)C)OC(=O)C)OC(=O)C)C)C(C(=O)O2)C	Pseudoguaiane sesquiterpenoids	Sesquiterpenoids	Terpenoids	False
+CC(=O)OCC1(CCCC2(C1CC=C3C2CCC4(C3CC=C(C4C=O)C=O)C)C)C	Spongiane diterpenoids	Diterpenoids	Terpenoids	False
+CC1(C2CCC3(C(C2(CCC1O)C)CC=C4C3(CCC5(C4CC(CC5)(C)C(=O)OC)C(=O)O)C)C)C	Oleanane triterpenoids,Ursane and Taraxastane triterpenoids	Triterpenoids	Terpenoids	False
+CCCCCCCCCC(=O)CCCCCCCCC(=O)O	Other Octadecanoids	Octadecanoids	Fatty acids	False
+CCCCCCCC(=O)C1C(=O)CCCC1=O	Simple cyclic polyketides	Cyclic polyketides	Polyketides	False
+CC(=O)C(CC=C)C(=O)OC	Wax monoesters	Fatty esters	Fatty acids	False
+C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C=C(C(=C3O)C4C(C(C(C(O4)CO)O)O)O)O)O	Flavones	Flavonoids	Shikimates and Phenylpropanoids	False
+CCCCCCCCC=CCCCCCCCC(=O)OCC1CO1			Fatty acids	False
+CCC(C)C(=O)OC1CCC=C2C1C(C(C=C2)C)CCC(CC(CC(=O)O)O)O	Monacolins and Monacolin derivatives	Cyclic polyketides	Polyketides	False
+CCCCCC=CCC=CCC=CCC1C(O1)CCCC(=O)OC	Epoxyeicosatrienoic acids	Eicosanoids	Fatty acids	False
+CCCCCCC12CC3CCC4CC5(C(C6(C4C3(C(C1(CCC7(C2CC(CC7)(C)C(=O)[O-])C)C)CC6)C)CO5)CCC)O	Lupane triterpenoids	Triterpenoids	Terpenoids	True
+CCCCCC=CCC=CCCCCCCCC(=O)NCCO	N-acyl ethanolamines (endocannabinoids)	Fatty amides	Fatty acids	False
+CCCCCCCCCCCCCCCC(=O)OCC=C(C)CCC1C(=C)CCC2C1(CCCC2(C)C(=O)OC)C	Labdane diterpenoids	Diterpenoids	Terpenoids	False
+CC12CC3(OC(O1)(CC(O2)(P3C4=CC=CC=C4)C)C)C				False
+CC(=O)OC1C(C(OC(C1OC(=O)C)OC2=CC=C(C=C2)C=CC(=O)O)COC(=O)C=CC3=CC=C(C=C3)O)O	Cinnamic acids and derivatives	Phenylpropanoids (C6-C3)	Shikimates and Phenylpropanoids	True
+CCC=CCC=CCC=CCC=CCCCCC(=O)CC(=O)O	Oxo fatty acids	Fatty Acids and Conjugates	Fatty acids	False
+CC(C)(C)OC(=O)N1CC(=C)CC1C(=O)O				False
+CCCCCCCCC=CCCCCCCC(C(CCCCCCCC=CCCCCCC)OC(=O)C)C(=O)OC	Fatty acid estolides,Wax monoesters	Fatty esters	Fatty acids	False
+CCCCCC#COC(=O)OC	Wax monoesters	Fatty esters	Fatty acids	False
+CC(=C)C(C#N)OC1C(C(C(C(O1)CO)O)O)O	Cyanogenic glycosides	Amino acid glycosides	Amino acids and Peptides	True
+CCCCCCC=CCCCCCCCC(=O)OCC(CO)OC(=O)CCCCCCCC=CCC=CCC=CCC	Diacylglycerols	Glycerolipids	Fatty acids	False
+CCCCCCCCCCCCC(C(C(CO)N)O)O	Sphingoid bases	Sphingolipids	Fatty acids	False
+CCCCCC=CCC=CCC=CCC=CCCCC(=O)OC1CC(OC1CCCCC)C(CCCCCCCC=C)O			Fatty acids	False
+CCC(C)C(=O)OC1CC(C=C2C1C(C(C=C2)C)CCC(CC(CC(=O)O)O)O)C	Monacolins and Monacolin derivatives	Cyclic polyketides	Polyketides	False
+CC(=O)C(CC=C)C(=O)OC	Wax monoesters	Fatty esters	Fatty acids	False
+CC1=C(C(CC(C1)O)(C)C)C=CC(=CC=CC(=CC=CC=C(C)C=CC=C(C)C=CC2=C(C(=O)C(CC2(C)C)O)C)C)C	Carotenoids (C40, β-β)	Carotenoids (C40)	Terpenoids	False
+CCOC(=O)C1=CC=CC=C1N(CC(=O)N(C)C)C(=O)C			Alkaloids,Shikimates and Phenylpropanoids	False
+CCCCCCCCC=CC=CCCCCCCCCCCCCCCC=CC=CCCCC(=O)OC(CO)CO	Diacylglycerols	Glycerolipids	Fatty acids	False
+CC1C(=O)C(C(C(O1)C2=C(C3=C(C=C2O)OC(=CC3=O)C4=CC(=C(C=C4)O)OC)O)O)O	Flavones	Flavonoids	Shikimates and Phenylpropanoids	False
+C1=CC(=CC=C1CN2C=NC3=C2N=CNC3=O)[N+](=O)[O-]	Imidazole alkaloids	Histidine alkaloids	Alkaloids	False
+CCCCCCCCCCCCOC(=O)CCCCCCCC=CCC=CCCCCC	Wax monoesters	Fatty esters	Fatty acids	False
+COC1C(OC(C(C1O)N)OC2C(CC(C(C2O)O)N)N)CN	Amino cyclitols	Polyols	Carbohydrates	True
+CCCCC1=CN=C(C=C1)C(=O)O	Pyridine alkaloids	Nicotinic acid alkaloids	Alkaloids	False
+CCOC(=O)C1=CC=CC=C1N(CC(=O)N(C)C)C(=O)C			Alkaloids,Shikimates and Phenylpropanoids	False
+CC1CCC2(C(C1(C)CCC(C)CCOC(=O)C)CCC=C2COC(=O)C)C	Colensane and Clerodane diterpenoids	Diterpenoids	Terpenoids	False
+CCCCCCCCC=CCCCCCCC(C(CCCCCCCC=CCCCCCC)OC(=O)C)C(=O)OC	Fatty acid estolides,Wax monoesters	Fatty esters	Fatty acids	False
+CCCCCCCCCCCCCCCC(=O)NCCNC(=O)CCCCCCCCCCCCCCC	N-acyl amines	Fatty amides	Fatty acids	False
+CCCCCCCCCCCCCCCCCC(=O)NCCCCON1C(=NC2=C1C3=CC=CC=C3N=C2N)CCCC			Alkaloids	False
+CCCCCCCCC=CC=CCCCCCCCCCCCCCCC=CC=CCCCC(=O)OC(CO)CO	Diacylglycerols	Glycerolipids	Fatty acids	False
+CCCCCC=CCC=CCC=CCC1C(O1)CCCC(=O)OC	Epoxyeicosatrienoic acids	Eicosanoids	Fatty acids	False
+CCCCCCCCC=CCCCCCCCC(=O)OCC1CO1			Fatty acids	False
+CC(=O)N1CCN(CC1)C2=NC=CC(=C2)C3=NOC(=N3)C4CCCN4CC(C)(C)C		Lysine alkaloids	Alkaloids	False
+CC(CC(C)(CC(C)(CC(=C)C1=CC=CC=C1)C2=CC=CC=C2)C3=CC=CC=C3)C4=CC=CC=C4			Alkaloids	False
+CCC(CCC(C)C1CCC2C1(CCC3C2CCC4=CC(=O)CCC34C)C)C(C)C	Stigmastane steroids	Steroids	Terpenoids	False
+C1=CC=C(C=C1)NC2=CC=CC=C2			Shikimates and Phenylpropanoids	False
+CCCCCCCCCCCCCCCCCC(=O)NCCNC(=O)CCCCCCCCCCCCCCCCC	N-acyl amines	Fatty amides	Fatty acids	False
+CCCCCCC=CCCCCCCCC(=O)OCC(CO)OC(=O)CCCCCCCC=CCC=CCC=CCC	Diacylglycerols	Glycerolipids	Fatty acids	False
+CCCCCCCCCC(=O)CCCCCCCCC(=O)O	Other Octadecanoids	Octadecanoids	Fatty acids	False
+CCC=CCC=CCC=CCCCCCCCC=O	Fatty aldehydes	Fatty acyls	Fatty acids	False
+CC1=C(C(CCC1)(C)C)C=CC(=CC=CC(=CC=CC=C(C)C=CC=C(C)C=CC2=C(C=CC(=O)C2(C)C)C)C)C	Carotenoids (C40, β-β)	Carotenoids (C40)	Terpenoids	False
+CCC=CCC=CCC=CCCCCCCCC=O	Fatty aldehydes	Fatty acyls	Fatty acids	False
+CC(C(=O)O)NCCO	Aminoacids	Small peptides	Amino acids and Peptides	False
+C(CCC(=O)O)CC1=C(C(=CC(=O)O)OC1=O)O			Polyketides	False
+C1CCNC(C1)C(=O)O	Aminoacids,Dipeptides	Small peptides	Amino acids and Peptides	False
+C1=C(C=C(C=C1C(=O)N)C(=O)O)C(=O)N	Simple amide alkaloids	Peptide alkaloids	Alkaloids	False
+CC(C(=O)O)NCCO	Aminoacids	Small peptides	Amino acids and Peptides	False
+CC(=O)OC1C(C(C(OC1C2=C(C=C(C3=C2OC(=CC3=O)C4=CC=C(C=C4)O)O)OC)CO)O)O	Flavones	Flavonoids	Shikimates and Phenylpropanoids	False
+CCCCCCCC(=C1C(=O)CCCC1=O)O	Polyprenylated cyclic polyketides (Hop meroterpenoids)	Meroterpenoids	Polyketides	False
+CC(=O)C(CC=C)C(=O)OC	Wax monoesters	Fatty esters	Fatty acids	False
+CCCCCC#COC(=O)OC	Wax monoesters	Fatty esters	Fatty acids	False
+COC1=C(C(=C2C(=C1)OC(=CC2=O)C3=CC=C(C=C3)O)O)C4C(C(C(C(O4)CO)O)O)O	Flavones	Flavonoids	Shikimates and Phenylpropanoids	False
+CC(C)NC(=O)C(=O)NC1=NN=C(S1)S(=O)(=O)N			Alkaloids,Amino acids and Peptides	False
+CC(=O)C(CC=C)C(=O)OC	Wax monoesters	Fatty esters	Fatty acids	False
+C1=CC(=C(C2=C1C=CC(=O)O2)C3=C(C=C4C(=C3)C=CC(=O)O4)O)OC5C(C(C(C(O5)CO)O)O)O	Simple coumarins	Coumarins	Shikimates and Phenylpropanoids	True
+CCCCCC=CCC=CCCCCCCCC(=O)OCC=C(COC(=O)C)C(CC=C(C)C#CC=C(C)C)OC(=O)C		Fatty esters	Fatty acids	False
+CCCCCCCC(=O)C1C(=O)CCCC1=O	Simple cyclic polyketides	Cyclic polyketides	Polyketides	False
+CC1(CC2=C3C=C(C(=O)C(C3(C4C2C4)C)O)C(CC5=C6C=C1C(=O)C(C6(C7C5C7)C)O)(C)C(=O)OC)C(=O)OC	Cycloeudesmane sesquiterpenoids	Sesquiterpenoids	Terpenoids	False
+CCC(CCC(C)C1CCC2C1(CCC3C2CCC4=CC(=O)CCC34C)C)C(C)C	Stigmastane steroids	Steroids	Terpenoids	False
+CC1=CC2C(CC1)(C3(C(C(C(C34CO4)O2)O)OC5C(C(C(C(O5)CO)O)O)O)C)COC(=O)C	Trichothecane sesquiterpenoids	Sesquiterpenoids	Terpenoids	True
+C1=CC=C(C=C1)NC2=CC=CC=C2			Shikimates and Phenylpropanoids	False
+CCCCCCCCCCCCCCCCCCN1C2=CC=CC=C2C(C1=CN=C3C4=C(C=CC3=O)N=CC=C4)(C)C			Alkaloids	False
+CCCCC(=O)C=CC=CC(=O)CCCCCCCC(=O)O	Other Octadecanoids	Octadecanoids	Fatty acids	False
+CC(C)CC(=O)OCC1=COC(C2C1CC(C23CO3)OC(=O)C)OC(=O)CC(C)C	Iridoids monoterpenoids	Monoterpenoids	Terpenoids	True
+C1=CC=C(C=C1)OC2C(C(C(C(O2)C(=O)O)O)O)O	Simple phenolic acids	Phenolic acids (C6-C1)	Shikimates and Phenylpropanoids	True
+CC(=O)C(CC=C)C(=O)OC	Wax monoesters	Fatty esters	Fatty acids	False
+COC1=C(C(=C2C(=C1)OC(=CC2=O)C3=CC(=C(C=C3)O)O)O)C4C(C(C(C(O4)CO)O)O)O	Flavones	Flavonoids	Shikimates and Phenylpropanoids	False
+CCCCCCCCC=CCCCCCCCC(=O)N	Primary amides	Fatty amides	Fatty acids	False
+CC(C)C1=CC(=O)C(=CC=C1C=CC(C)(C)O)OC2C(C(C(C(O2)CO)O)O)O			Terpenoids	True
+CCC(C(C)C(C(CC(C)CCC=C(C)C1C(C=CC(C(CCC(CC(=O)O1)O)(C)O)OC(=O)C)C)O)O)O	Macrolide lactones	Macrolides	Polyketides	False
+CCCCCCCCC=CCCCCCCCC(=O)N	Primary amides	Fatty amides	Fatty acids	False
+CCC(C)C(C(=O)NC(C(C)O)C(=O)NC(CO)C(=O)O)NC(=O)C(C(C)O)N	Tripeptides	Small peptides	Amino acids and Peptides	False
+CCCCCC=CCC=CCCCCCCCC(=O)OCC=C(COC(=O)C)C(CC=C(C)C#CC=C(C)C)OC(=O)C		Fatty esters	Fatty acids	False
+CC(=O)OCCCC=CC=CC#CC#CC=CCOC(=O)C	Wax monoesters	Fatty esters	Fatty acids	False
+C1=CC=C(C=C1)NC2=CC=CC=C2			Shikimates and Phenylpropanoids	False
+C1COCCOCCN2CCOCCOCCN1CCOCCOCC2				False
+C(CC(C(=O)O)NCC(=O)C(C(C(CO)O)O)O)CN=C(N)N	Aminosugars	Aminosugars and aminoglycosides	Carbohydrates	False
+C1CC(N(C1)C(=O)N)C(=O)O	Dipeptides	Small peptides	Amino acids and Peptides	False
+CCCCCC#COC(=O)OC	Wax monoesters	Fatty esters	Fatty acids	False
+CCCCCCCCCCCCCCCCCCCCCC(=O)N	Primary amides	Fatty amides	Fatty acids	False
+CC(=O)OC1CCC2(C(C1(C)C)CCC3(C2CC=C4C3(CCC5(C4CC(C(C5OC(=O)C)OC(=O)C)(C)C)C)C)C)C	Oleanane triterpenoids	Triterpenoids	Terpenoids	False
+CC(=O)C(CC=C)C(=O)OC	Wax monoesters	Fatty esters	Fatty acids	False
+CC(C)CN(C(C(C)C)C(=O)NO)S(=O)(=O)C1=CC=CC(=C1)COC				False
+COC1=CC(=CC(=C1OC)OC)C(=O)OCC2CCN(CC2)CCC3=CC=CC=C3			Alkaloids	False
+CCCCCCCCCCCCCCCC(=O)OCC=C(C)CCC1C(=C)CCC2C1(CCCC2(C)C(=O)OC)C	Labdane diterpenoids	Diterpenoids	Terpenoids	False
+CC(C)(C)CN1CCCC1C2=NC(=NO2)C3=CC(=NC=C3)N4CCC(CC4)C(=O)N			Alkaloids	False
+C1=CC=C(C=C1)NC2=CC=CC=C2			Shikimates and Phenylpropanoids	False
+CCC=CCC=CCC=CCCCCCCCC(=O)OCC(CO)O	Monoacylglycerols	Glycerolipids	Fatty acids	False
+CCCCCCCCC=CCCCCCCCC(=O)OCC(C)O	Wax monoesters	Fatty esters	Fatty acids	False
+COC1=C(C=CC(=C1)C(CC(=O)OC)C2=C(C=C(C3=C2OC(=C(C3=O)O)C4=CC(=C(C=C4)O)O)O)O)O	Flavonols	Flavonoids	Shikimates and Phenylpropanoids	False
+CC1=CCCC(=C)C(CCC(=CC(C(CC1)C(=C)C)OC(=O)C)COC(=O)C)O	Cembrane diterpenoids,Dolabellane diterpenoids	Diterpenoids	Terpenoids	False
+CCCCC(=O)C=CC=CC(=O)CCCCCCCC(=O)O	Other Octadecanoids	Octadecanoids	Fatty acids	False
+CC(C)CCCCCCCC=CC(=O)NO			Fatty acids	False
+CCCCCC#COC(=O)OC	Wax monoesters	Fatty esters	Fatty acids	False
+CCCCCC=CCC=CCC=CCC=CCCCC(=O)OC1CC(OC1CCCCC)C(CCCCCCCC=C)O			Fatty acids	False
+CC(=O)C(CC=C)C(=O)OC	Wax monoesters	Fatty esters	Fatty acids	False
+CCCCCCCCCCCCCCC(C(=O)OC)S(=O)(=O)O			Fatty acids	False
+CCCCCCCCCCCCCCCC(=O)OCC(COP(=O)(O)OCCN)O	Glycerophosphoethanolamines	Glycerophospholipids	Fatty acids	False
+CCCCCCCCCCCCCCCCCC(=O)OCC1CO1	Wax monoesters	Fatty esters	Fatty acids	False
+C1=CC2=C(C(=C1)O)C(=O)C3=C(C2(C4=C(C5=C(C=C4)C(=O)C6=C(C=CC(=C6C5=O)O)O)O)O)C=C(C=C3O)CO	Anthraquinones and anthrones	Polycyclic aromatic polyketides	Polyketides	False
+CC1=CC(C2(C(CC(C2C(C1)OC(=O)C3=CC=C(C=C3)C)(C(C)C)O)OC(=O)C)C)OC(=O)C4=CC=CC=C4	Daucane sesquiterpenoids	Sesquiterpenoids	Terpenoids	False
+CC1=CC(=CC(=C1OC2C(C(C(C(O2)COC(=O)C3=CC(=C(C(=C3)O)O)O)O)O)O)O)O	Gallotannins	Phenolic acids (C6-C1)	Shikimates and Phenylpropanoids	True
+C1=C(C=C(C=C1C(=O)N)C(=O)O)C(=O)N	Simple amide alkaloids	Peptide alkaloids	Alkaloids	False
+C1=C(SC(=C1)NCCCC2=C(N=C(NC2=O)N)N)C(=O)NC(CCC(=O)O)C(=O)O				False
+CC(=O)NC1C(CC(OC1C(C(CNC(=O)C2=CC3=CC=CC=C3C=C2)O)O)(C(=O)O)O)O	Aminosugars	Aminosugars and aminoglycosides	Carbohydrates	True
+CC1C(C(C(C(O1)OC2C(C(C(OC2C3=C(C4=C(C=C3O)OC(=CC4=O)C5=CC(=C(C=C5)O)O)O)CO)O)O)O)O)O	Flavones	Flavonoids	Shikimates and Phenylpropanoids	True
+CN1CCCN(CC1)C2=NC3=CC(=C(C=C3C(=N2)NC4CCN(CC4)C)OC)OCCCN(C)C	Isoquinoline alkaloids	Tyrosine alkaloids	Alkaloids	False
+CCCCCCCCCC(=O)OC1CCC2(C(C1(C)C)CCC3(C2C(=O)C=C4C3(CCC5(C4C(C(CC5)C)C)C)C)C)C	Ursane and Taraxastane triterpenoids	Triterpenoids	Terpenoids	False
+CC(C(=O)O)NCCO	Aminoacids	Small peptides	Amino acids and Peptides	False
+CC(=O)NC1=CC=C(C=C1)S(=O)(=O)N(C=C)C=C				False
+C1=CC=C(C=C1)C(=O)OC2C(C(C(OC2OC3=C(C=C(C=C3)O)COC(=O)C4=CC=CC=C4O)CO)O)O	Simple phenolic acids	Phenolic acids (C6-C1)	Shikimates and Phenylpropanoids	True
+CC1=C(C2=C(CCC(O2)(C)CCCC(C)CCCC(C)CCC=C(C)C)C(=C1O)C)C	Prenyl quinone meroterpenoids	Meroterpenoids	Terpenoids	False
+CCCCCCC12CC3CCC4CC5(C(C6(C4C3(C(C1(CCC7(C2CC(CC7)(C)C(=O)[O-])C)C)CC6)C)CO5)CCC)O	Lupane triterpenoids	Triterpenoids	Terpenoids	True
+C1CC(=O)NC1C(=O)O	Aminoacids	Small peptides	Amino acids and Peptides	False
+CCCCCC=CCC=CCCCCCCCC(=O)OCC1CO1			Fatty acids	False
+CC1=CCCC(=C)C(CCC(=CC(C(CC1)C(=C)C)OC(=O)C)COC(=O)C)O	Cembrane diterpenoids,Dolabellane diterpenoids	Diterpenoids	Terpenoids	False
+CN(C)CCCOC(C(C=O)O)C(C(CO)O)O	Aminosugars	Aminosugars and aminoglycosides	Carbohydrates	False
+C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C=C(C=C3)O)O	Flavones	Flavonoids	Shikimates and Phenylpropanoids	False
+C1=CC=C(C=C1)NC2=CC=CC=C2			Shikimates and Phenylpropanoids	False
+CC(=O)C(CC=C)C(=O)OC	Wax monoesters	Fatty esters	Fatty acids	False
+CC(=O)C(CC=C)C(=O)OC	Wax monoesters	Fatty esters	Fatty acids	False
+CCCCCCCCC=CCCCCCCCC(=O)N	Primary amides	Fatty amides	Fatty acids	False
+C(CO)NC(=O)CN(CC(=O)NCCO)CC(=O)NCCO			Amino acids and Peptides	False
+CCCCCCCCC=CC=CCCCCCCCCCCCCCCC=CC=CCCCC(=O)OC(CO)CO	Diacylglycerols	Glycerolipids	Fatty acids	False
+CC1(CC(C(C1CO)CCOC2C(C(C(C(O2)CO)O)O)O)OC(=O)C3=CC=C(C=C3)OC)O	Iridoids monoterpenoids	Monoterpenoids	Terpenoids	True
+CC=C(C)C(=O)OC1C(C=C(C2=CCC(C12C)C3=COC=C3)C=C4C=C(C(C(OC4=O)(C)C)CC(=O)OC)C)OC(=O)C	Limonoids	Triterpenoids	Terpenoids	False
+CCCCCCCCCCCCCCCC(=O)OCC=C(C)CCC1C(=C)CCC2C1(CCCC2(C)C(=O)OC)C	Labdane diterpenoids	Diterpenoids	Terpenoids	False
+C1=COC(=C1)C(=O)CNCCCCC(C(=O)O)N	Aminoacids	Small peptides	Amino acids and Peptides	False
+COC1=C(C=CC(=C1)C2=CC(=O)C3=C(C(=C(C=C3O2)OC)C4C(C(C(C(O4)CO)O)O)O)O)O	Flavones	Flavonoids	Shikimates and Phenylpropanoids	False
+CC1(CCC2(CCC3(C(=CCC4C3(CCC5C4(CCC(C5(C)CO)O)C)C)C2C1O)C)C(=O)O)C	Oleanane triterpenoids	Triterpenoids	Terpenoids	False
+CCCCCC=CCC=CCC=CCC=CCCCC(=O)OC1CC(OC1CCCCC)C(CCCCCCCC=C)O			Fatty acids	False
+CC(=O)C(CC=C)C(=O)OC	Wax monoesters	Fatty esters	Fatty acids	False
+CC(=O)C(CC=C)C(=O)OC	Wax monoesters	Fatty esters	Fatty acids	False
+CC(C(=O)O)NCCO	Aminoacids	Small peptides	Amino acids and Peptides	False
+CCCCCCCCC=CC=CCCCCCCCCCCCCCCC=CC=CCCCC(=O)OC(CO)CO	Diacylglycerols	Glycerolipids	Fatty acids	False
+CCCCCCCCCC(=O)CCCCCCCCC(=O)O	Other Octadecanoids	Octadecanoids	Fatty acids	False
+CCCCCC=CCC=CCCCCCCCC(=O)OCC(CO)O	Monoacylglycerols	Glycerolipids	Fatty acids	False
+C1CC(=O)C(=C1)CCCCCCC(=O)O				False
+CCCCCCCCC=CCCCCCCC(C(CCCCCCCC=CCCCCCC)OC(=O)C)C(=O)OC	Fatty acid estolides,Wax monoesters	Fatty esters	Fatty acids	False
+C(CC(=O)NCCNC(=O)CCC(=O)O)CC(=O)O				False
+CC(=O)C(CC=C)C(=O)OC	Wax monoesters	Fatty esters	Fatty acids	False
+CCCCCNS(=O)(=O)C1=C(C=CC(=C1)S(=O)(=O)N)C(=O)O			Alkaloids	False
+CC1C2C3=CCC4C5(CCC(=O)C(C5=CCC4(C3(CCC2(CCC1=C)C)C)C)(C)C)C	Lanostane, Tirucallane and Euphane triterpenoids	Triterpenoids	Terpenoids	False
+CN(C(=O)SCC(C(=O)NCC(=O)O)NC(=O)CCC(C(=O)O)N)O	Tripeptides	Small peptides	Amino acids and Peptides	False
+CC1C(C(C(C(O1)OC2C(C(C(OC2C3=C(C4=C(C=C3O)OC(=CC4=O)C5=CC(=C(C=C5)O)O)O)CO)O)O)O)O)O	Flavones	Flavonoids	Shikimates and Phenylpropanoids	True
+COC1=C(C=CC(=C1)C2=CC(=O)C3=C(C(=C(C=C3O2)OC)C4C(C(C(C(O4)CO)O)O)O)O)O	Flavones	Flavonoids	Shikimates and Phenylpropanoids	False
+CC1C2CC(C(=C)C3CC(C(=C)C3C2OC1=O)OC4C(C(C(C(O4)CO)O)O)O)O	Guaiane sesquiterpenoids	Sesquiterpenoids	Terpenoids	True
+C1=CC=C(C=C1)NC2=CC=CC=C2			Shikimates and Phenylpropanoids	False
+CCCCCCCCC=CCCCCCCCC(C(CCCCCCC=CCCCCCC)C(=O)OC)OC(=O)C	Fatty acid estolides,Wax monoesters	Fatty esters	Fatty acids	False
+CC(C)(C)OC(=O)NCCCC(C(=O)O)NC(=O)OC(C)(C)C				False
+COC1=CC2=C(C(=C1)OC)C(=O)C=C(O2)C3=CC4=C(C=C3)OCO4	Flavones	Flavonoids	Shikimates and Phenylpropanoids	False
+CC1=C(C(CC(C1)O)(C)C)C#CC(=CC=CC(=CC=CC=C(C)C=CC=C(C)C=CC2C(=CC(CC2(C)C)O)C)C)C	Carotenoids (C40, β-ε)	Carotenoids (C40)	Terpenoids	False
+CCCCCCCCC=CC=CCCCCCCCCCCCCCCC=CC=CCCCC(=O)OCC(CO)O	Diacylglycerols	Glycerolipids	Fatty acids	False
+C(CC(=O)O)C(C(=O)O)N	Aminoacids	Small peptides	Amino acids and Peptides	False
+C1=CC=C(C=C1)C(=O)OC2C(C(C(OC2C3=C(C4=C(C=C3O)OC5=CC(=C(C=C5C4=O)O)O)O)CO)O)O	Plant xanthones	Xanthones	Shikimates and Phenylpropanoids	False
+CCCCCC#COC(=O)OC	Wax monoesters	Fatty esters	Fatty acids	False
+CC12CCC3C(C1CCC2OC(=O)CCC4=CC=CC=C4)CCC5=C3C=CC(=C5)OC(=O)CCC6=CC=CC=C6		Steroids	Terpenoids	False
+CCC(C=CC(C)C1CCC2C1(CCC3C2CCC4=CC(=O)CCC34C)C)C(C)C	Stigmastane steroids	Steroids	Terpenoids	False
+CCCCCCC=CCC=CCC=CCCCCCCCCO	Fatty alcohols	Fatty acyls	Fatty acids	False
+CC1C(C(C(C(O1)OC2=C(C=C3C=CC(=O)OC3=C2)C4=C(C=CC5=C4OC(=O)C=C5)O)O)O)O	Simple coumarins	Coumarins	Shikimates and Phenylpropanoids	True
+CCCCCC=CCC=CCCCCCCCC(=O)OCC1CO1			Fatty acids	False
+CCCCCCC12CC3CCC4CC5(C(C6(C4C3(C(C1(CCC7(C2CC(CC7)(C)C(=O)[O-])C)C)CC6)C)CO5)CCC)O	Lupane triterpenoids	Triterpenoids	Terpenoids	True
+C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C(=C(C=C3O)O)C4C(C(C(C(O4)CO)O)O)OC(=O)C5=CC=C(C=C5)O)O	Flavones	Flavonoids	Shikimates and Phenylpropanoids	False
+CC1C(C(C(C(O1)OC2CC(CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=O)C(=CC=C5)OC)O)(C(=O)CO)O)OC)O)O	Anthracyclines	Polycyclic aromatic polyketides	Polyketides	True
+CCCCCC=CCC=CCC=CCC=CCCCC(=O)OC1CC(OC1CCCCC)C(CCCCCCCC=C)O			Fatty acids	False
+CCCCCC=CCC=CCC=CCC1C(O1)CCCC(=O)OC	Epoxyeicosatrienoic acids	Eicosanoids	Fatty acids	False
+CCCCC(=O)C=CC=CC(=O)CCCCCCCC(=O)O	Other Octadecanoids	Octadecanoids	Fatty acids	False
+CCCCCCCCC=CCCCCCCCC(C(CCCCCCC=CCCCCCC)C(=O)OC)OC(=O)C	Fatty acid estolides,Wax monoesters	Fatty esters	Fatty acids	False
+CCCCCCCCCCC=CCCC1C(O1)CCC2C(O2)CCCCCCCCCCCCC3=CC(OC3=O)C	Acetogenins	Linear polyketides	Polyketides	False
+C(C(C(=O)C=COP(=O)(O)O)N)N	Aminoacids	Small peptides	Amino acids and Peptides,Shikimates and Phenylpropanoids	False
+CCCCCC=CCC=CCCCCCCCC(=O)NCC(C)C	N-acyl amines	Fatty amides	Fatty acids	False
+CCCCCC=CCC=CCCCCCCCC(=O)OCC(CO)O	Monoacylglycerols	Glycerolipids	Fatty acids	False
+CCCCCCCCC=CCCCCCCCC(=O)OCC1CO1			Fatty acids	False
+CCCCCCCCCCCCCCC=C1C(C(=O)O1)CCCCCCCCCCCCCC			Fatty acids	False
+CC(=O)C(CC=C)C(=O)OC	Wax monoesters	Fatty esters	Fatty acids	False
+CCCCN1C2=C(N=C1NCCN(C)C)N(C(=O)NC2=O)C	Purine alkaloids	Pseudoalkaloids	Alkaloids	False
+CC(C)C1=CC(=O)C(=CC=C1C=CC(C)(C)O)OC2C(C(C(C(O2)CO)O)O)O			Terpenoids	True
+CCCCCC=CCC=CCC=CCC1C(O1)CCCC(=O)OC	Epoxyeicosatrienoic acids	Eicosanoids	Fatty acids	False
+CC1(CCC2(CCC3(C(=CCC4C3(CCC5C4(CCC(=O)C5(C)C)C)C)C2C1)C)C=O)C	Oleanane triterpenoids	Triterpenoids	Terpenoids	False
+CCC=CCC=CCC=CCCCCCCCC(=O)OCC(CO)O	Monoacylglycerols	Glycerolipids	Fatty acids	False
+CCCCCCCCC=CCCCCCCCCCCCCCC(=O)N	Primary amides	Fatty amides	Fatty acids	False
+CC1=CC=C(C=C1)N(CCCOC(=O)N)CCCOC(=O)N			Alkaloids	False
+CCC(CCC(C)C1CCC2C1(CCC3C2CC=C4C3(CCC=C4)C)C)C(C)C	Stigmastane steroids	Steroids	Terpenoids	False
+C1=CN(C(=O)N=C1N)C2C(C(C(O2)CO)O)N=[N+]=[N-]	Pyrimidine nucleos(t)ides	Nucleosides	Carbohydrates	False
+CCCCCCCCC=CCCCCCCCCCCCC(=O)N	Primary amides	Fatty amides	Fatty acids	False
+CCCCC(=O)C=CC=CC(=O)CCCCCCCC(=O)O	Other Octadecanoids	Octadecanoids	Fatty acids	False
+CCCCOC(=O)COC(=O)C1=CC=CC=C1C(=O)OCCCC	Shikimic acids and derivatives,Simple phenolic acids	Phenolic acids (C6-C1)	Shikimates and Phenylpropanoids	False
+CC(=CCCC(=CCCC(=CCCC(=O)C)C)C)C	Fatty aldehydes,Hydrocarbons	Fatty acyls	Fatty acids	False
+CCCCCCCC(=C1C(=O)CCCC1=O)O	Polyprenylated cyclic polyketides (Hop meroterpenoids)	Meroterpenoids	Polyketides	False
+CCC(C(=O)OCCOC1=CC=C(C=C1)C(C)(C)C2=CC=C(C=C2)OCCOC(=O)C(CC)N3CC3)N4CC4			Alkaloids	False
+CCCCCCCCC(=O)CCCCCCCCC(=O)OC	Oxo fatty acids	Fatty Acids and Conjugates	Fatty acids	False
+C1CC(C=C(C1)C(=O)O)N	Aminoacids	Small peptides	Amino acids and Peptides	False
+CCCCCCCCCCCC(C(CO)N)O	Sphingoid bases	Sphingolipids	Fatty acids	False
+CCCCCCCCC1C(O1)CCCCCCCC(=O)OC	Epoxy fatty acids	Fatty Acids and Conjugates	Fatty acids	False
+CCCCCCCCCCCCCCNCCO	Fatty alcohols	Fatty acyls	Fatty acids	False
+CC1C(C(C(C(O1)OC2C3C=COC(C3C4(C2O4)CO)O)OC(=O)C)OC(=O)C=CC5=CC=CC=C5)OC(=O)C	Iridoids monoterpenoids	Monoterpenoids	Terpenoids	True
+CC(=O)OCC1C(C(C(C(O1)OC2C3C(COC3C4=CC5=C(C=C4)OCO5)C(O2)C6=CC7=C(C=C6)OCO7)O)O)O	Furofuranoid lignans	Lignans	Shikimates and Phenylpropanoids	True
+CCCCCC=CCC=CCC=CCC=CCCCC(=O)OC1CC(OC1CCCCC)C(CCCCCCCC=C)O			Fatty acids	False
+C=C(CC(=O)O)C(=C)CC(=O)O	Dicarboxylic acids,Unsaturated fatty acids	Fatty Acids and Conjugates	Fatty acids	False
+CCCCCCC12CC3CCC4CC5(C(C6(C4C3(C(C1(CCC7(C2CC(CC7)(C)C(=O)[O-])C)C)CC6)C)CO5)CCC)O	Lupane triterpenoids	Triterpenoids	Terpenoids	True
+C1=CC(=CC=C1C(C#N)O)OC2C(C(C(C(O2)CO)O)O)O	Cyanogenic glycosides	Amino acid glycosides	Amino acids and Peptides	True
+CCCCCCCCC=CC=CCCCCCCCCCCCCCCC=CC=CCCCC(=O)OCC(CO)O	Diacylglycerols	Glycerolipids	Fatty acids	False
+CCCCCC=CCC=CCC=CCC1C(O1)CCCC(=O)OC	Epoxyeicosatrienoic acids	Eicosanoids	Fatty acids	False
+CCCCCCCCC=CCCCCCCCC(C(CCCCCCC=CCCCCCC)C(=O)OC)OC(=O)C	Fatty acid estolides,Wax monoesters	Fatty esters	Fatty acids	False
+CCCCCCCCCCCCCCCC(=O)OCC=C(C)CCC1C(=C)CCC2C1(CCCC2(C)C(=O)OC)C	Labdane diterpenoids	Diterpenoids	Terpenoids	False
+CC(=CC(=O)NC1CC(N(C1)C(=O)C=C(C)C)C(=O)NC(CC2=CC=CC=C2)C(=O)N)C			Amino acids and Peptides	False
+CC1=C(C(CC(C1)O)(C)C)C=CC(=CC=CC(=CC=CC=C(C)C=CC=C(C)C=CC2C(=CC(CC2(C)C)O)C)C)CO	Carotenoids (C40, β-ε)	Carotenoids (C40)	Terpenoids	False
+CC(C(=O)O)OC1C(C(OC(C1O)CO)O)NC(=O)C	Aminosugars	Aminosugars and aminoglycosides	Carbohydrates	True
+C1=CC=C2C(=C1)C(=CN2)CC(C(=O)O)N	Aminoacids	Small peptides	Amino acids and Peptides,Shikimates and Phenylpropanoids	False
+CCC=CCC=CC=CC(=O)CCCCCCCC(=O)O	Other Octadecanoids	Octadecanoids	Fatty acids	False
+CCCCCC=CCC=CCC=CCC=CCCCC(=O)OC1CC(OC1CCCCC)C(CCCCCCCC=C)O			Fatty acids	False
+COC1=C(C(=C2C(=C1)OC(=CC2=O)C3=CC(=C(C=C3)O)O)O)C4C(C(C(C(O4)CO)O)O)O	Flavones	Flavonoids	Shikimates and Phenylpropanoids	False
+CC(=O)OCC1C(C(C(C(O1)OC2=C(C(=C3C(=C2)OC(=CC3=O)C4=CC=C(C=C4)OC)O)OC)O)O)O	Flavones	Flavonoids	Shikimates and Phenylpropanoids	True
+CCCCCCCCCCCCCCCCCCC(=O)OCC1(C2CCC(C=CCC(=C)C2CO1)(C)O)C=CC=C(C)C		Diterpenoids	Terpenoids	False
+CCCCCCCCC=CC=CCCCCCCCCCCCCCCC=CC=CCCCC(=O)OCC(CO)O	Diacylglycerols	Glycerolipids	Fatty acids	False
+CC1=CCCC2(C1CC(CC2)C(C)(C)OC3C(C(C(CO3)OC(=O)C)OC(=O)C)OC(=O)C)C	Eudesmane sesquiterpenoids	Sesquiterpenoids	Terpenoids	True
+CCCCCC#COC(=O)OC	Wax monoesters	Fatty esters	Fatty acids	False
+CC(=O)C(CC=C)C(=O)OC	Wax monoesters	Fatty esters	Fatty acids	False
+CC(C)C1=CC(=O)C(=CC=C1C=CC(C)(C)O)OC2C(C(C(C(O2)CO)O)O)O			Terpenoids	True
+CCCCCCCCC=CC=CCCCCCCCCCCCCCCC=CC=CCCCC(=O)OC(CO)CO	Diacylglycerols	Glycerolipids	Fatty acids	False
+CCCCCC=CCC=CCC=CCC=CCCCC(=O)OC1CC(OC1CCCCC)C(CCCCCCCC=C)O			Fatty acids	False
+CCCCCCCCC=CC=CCCCCCCCCCCCCCCC=CC=CCCCC(=O)OC(CO)CO	Diacylglycerols	Glycerolipids	Fatty acids	False
+CC1=CC(=O)OC1CC2C(=C)CCC3C2(CCCC3(C)C(=O)O)C	Labdane diterpenoids	Diterpenoids	Terpenoids	False
+CC(=O)OC1CCC2(C3CCC4(C(C3CC=C2C1)CCC4OC(=O)C)C)C	Androstane steroids	Steroids	Terpenoids	False
+C1=CC=C(C=C1)COC2C(C(C(C(O2)CO)O)O)O			Shikimates and Phenylpropanoids	True
+CC1=C(C(CC(C1)O)(C)C)C=CC(=CC=CC(=CC=CC=C(C)C=CC=C(CO)C=CC=C(C)C=CCC(C)(C)OC)C)C	Carotenoids (C40, β-Ψ)	Carotenoids (C40)	Terpenoids	False
+CCCCCC=CCC=CCC=CCC=CCCCC(=O)OC1CC(OC1CCCCC)C(CCCCCCCC=C)O			Fatty acids	False
+CC(=O)NC1C=CC(C=C1)CCC(C(=O)O)NC(=O)C	Dipeptides	Small peptides	Amino acids and Peptides	False
+CC(C(=O)O)NCCO	Aminoacids	Small peptides	Amino acids and Peptides	False
+CCCCCCCCCC(=O)CCCCCCCCC(=O)O	Other Octadecanoids	Octadecanoids	Fatty acids	False
+CC(C(=O)O)NCCO	Aminoacids	Small peptides	Amino acids and Peptides	False
+CCCCCCCCCCCCCCCCCCC(=O)OCC1(C2CCC(C=CCC(=C)C2CO1)(C)O)C=CC=C(C)C		Diterpenoids	Terpenoids	False
+C1=C(C=C(C=C1O)O)CCCCCCCC=CCCCCCC2=CC(=CC(=C2)O)O	Catechols with side chains	Aromatic polyketides	Polyketides	False
+CCCCCCCCCC(=O)CCCCCCCCC(=O)O	Other Octadecanoids	Octadecanoids	Fatty acids	False
+CCOC(=O)C1=CN=C(N=C1C)SC	Pyridine alkaloids	Nicotinic acid alkaloids	Alkaloids	False
+C(CC(=O)O)CNC1C(C(C(OC1O)CO)O)O	Aminosugars	Aminosugars and aminoglycosides	Carbohydrates	True
+COC1=C(C=CC(=C1)CC=C)OOC2=C(C=C(C=C2)CC=C)OC	Cinnamic acids and derivatives,Neolignans	Phenylpropanoids (C6-C3),Lignans	Shikimates and Phenylpropanoids	False
+CC(=O)NCCCC(C(=O)O)N	Aminoacids	Small peptides	Amino acids and Peptides	False
+CCCCCCCCC=CCCCCCCCC(=O)OCC1CO1			Fatty acids	False
+CC1(CCCC1=O)C(=O)OC				False
+CCCCCCCCCCCCCCCC(=O)OCC(CO)OC(=O)CCCCCCCC=CCC=CCC=CCC	Diacylglycerols	Glycerolipids	Fatty acids	False
+CCCCCCCCC=CC=CCCCCCCCCCCCCCCC=CC=CCCCC(=O)OC(CO)CO	Diacylglycerols	Glycerolipids	Fatty acids	False
+C(CCN)CC(C(=O)NC(CCN)C(=O)NC(CCCCN)C(=O)O)N	Tripeptides	Small peptides	Amino acids and Peptides	False
+CCCCCCCCC=CCCCCCCCC(=O)OCC1CO1			Fatty acids	False
+C1=CC(=CC(=C1)CC(C(=O)O)N)CC(C(=O)O)N	Aminoacids	Small peptides	Amino acids and Peptides	False
+CCC=CCC=CCC=CCCCCCCCC(=O)O	Unsaturated fatty acids	Fatty Acids and Conjugates	Fatty acids	False
+COC1=CC(=CC(=C1)C=CC2=CC(=CC(=C2)OC)OC)OC	Monomeric stilbenes	Stilbenoids	Shikimates and Phenylpropanoids	False
+CCC(=O)C=CC=CC=CC(CCCCCCCC(=O)O)O	Oxo fatty acids	Fatty Acids and Conjugates	Fatty acids	False
+CCCCCC=CCC=CCC=CCC=CCCCC(=O)OC1CC(OC1CCCCC)C(CCCCCCCC=C)O			Fatty acids	False
+CCCCCC=CCC=CCC=CCC1C(O1)CCCC(=O)OC	Epoxyeicosatrienoic acids	Eicosanoids	Fatty acids	False
+CCCCCCCCC=CC=CCCCCCCCCCCCCCCC=CC=CCCCC(=O)OC(CO)CO	Diacylglycerols	Glycerolipids	Fatty acids	False
+CC(=O)NC1C(CC(OC1C(C(CNC(=O)C2=CC3=CC=CC=C3C=C2)O)O)(C(=O)O)O)O	Aminosugars	Aminosugars and aminoglycosides	Carbohydrates	True
+CCCCCC=CCC=CCC=CCC1C(O1)CCCC(=O)OC	Epoxyeicosatrienoic acids	Eicosanoids	Fatty acids	False
+C1CCCCCC(CCCCC1)(C(=O)O)N				False
+CC(=O)NC1C=CC(C=C1)CCC(C(=O)O)NC(=O)C	Dipeptides	Small peptides	Amino acids and Peptides	False
+CCOC(=O)C1=C(C(=C(N1)C)C=O)C		Nicotinic acid alkaloids	Alkaloids	False
+CC(CCC(=O)N)C1CCC2C1(C(CC3C2C(CC4C3(CCC(C4)O)C)O)O)C	Cholane steroids	Steroids	Terpenoids	False
+CC(=O)C(CC=C)C(=O)OC	Wax monoesters	Fatty esters	Fatty acids	False
+CC=C(C)C(=O)NC1=NC(=O)N(C=C1)C2CC(C(C(O2)C)OC3C(C(C(C(O3)C)N(C)C)O)O)O	Pyrimidine nucleos(t)ides	Nucleosides	Carbohydrates	True
+CCCCCC=CCC=CCC=CCC=CCCCC(=O)OC1CC(OC1CCCCC)C(CCCCCCCC=C)O			Fatty acids	False
+CN1NC(=O)NN(P1(=O)OC2=CC=CC=C2)C	Imidazole alkaloids	Histidine alkaloids	Alkaloids	False
+CCCCCCCCCCCCCCCC(=O)OCC=C(C)CCC1C(=C)CCC2C1(CCCC2(C)C(=O)OC)C	Labdane diterpenoids	Diterpenoids	Terpenoids	False
+C1=CC=C(C=C1)OC2C(C(C(C(O2)C(=O)O)O)O)O	Simple phenolic acids	Phenolic acids (C6-C1)	Shikimates and Phenylpropanoids	True
+CC1CCC2(C(C1(C)CCC(C)CCOC(=O)C)CCC=C2COC(=O)C)C	Colensane and Clerodane diterpenoids	Diterpenoids	Terpenoids	False
+CCCCCCCCC=CC=CCCCCCCCCCCCCCCC=CC=CCCCC(=O)OCC(CO)O	Diacylglycerols	Glycerolipids	Fatty acids	False
+CC12CCC3C(C1CCC2O)CCC4=CC(=O)CCC34	Estrane steroids	Steroids	Terpenoids	False
+CN(C(=O)SCC(C(=O)NCC(=O)O)NC(=O)CCC(C(=O)O)N)O	Tripeptides	Small peptides	Amino acids and Peptides	False
+CCCCCC=CCC=CCCCCCCCC(=O)OCC(COP(=O)(O)OCC[N+](C)(C)C)O	Glycerophosphocholines	Glycerophospholipids	Fatty acids	False
+CC(=C)C1CCC2(C1C3CCC4C5(CCC(C(C5CCC4(C3(CC2)CO)C)(C)C(=O)OC)OC(=O)C)C)C	Lupane triterpenoids	Triterpenoids	Terpenoids	False
+CCCCCCCCCCCCCCCC(=O)OC(CO)COC(=O)CCCCC=CCC=CCC=CCCCCC	Diacylglycerols	Glycerolipids	Fatty acids	False
+C[N+](C)(C)CCOP(=O)(O)OCC(CO)O		Glycerophospholipids	Fatty acids	False
+COC1=C(C(=C2C(=C1)OC(=CC2=O)C3=CC(=C(C=C3)O)O)O)C4C(C(C(C(O4)CO)O)O)O	Flavones	Flavonoids	Shikimates and Phenylpropanoids	False
+CCCCCC=CCC=CCC=CCC=CCCCC(=O)OC1CC(OC1CCCCC)C(CCCCCCCC=C)O			Fatty acids	False
+CC(C)CCCC(C)C1CCC2C1(CCC3C2C(C=C4C3(CCC(C4)O)C)OC(=O)C)C	Cholestane steroids	Steroids	Terpenoids	False
+CCC=CCC=CC=CC(=O)CCCCCCCC(=O)O	Other Octadecanoids	Octadecanoids	Fatty acids	False
+C1=CC(=C(C=C1C2=CC(=O)C3=C(O2)C=C(C(=C3O)C4C(C(C(C(O4)CO)O)O)O)O)O)O	Flavones	Flavonoids	Shikimates and Phenylpropanoids	False
+CC(C(=O)O)NCCO	Aminoacids	Small peptides	Amino acids and Peptides	False
+CCCCCCCCCCCOC(=O)C1=CC=CC=C1C(=O)OCCCCCCC	Shikimic acids and derivatives,Simple phenolic acids	Phenolic acids (C6-C1)	Shikimates and Phenylpropanoids	False
+CC1=C(C(=C(C(=C1O)C2=CC=C(C=C2)OC(=O)CC3=CC=CC=C3)O)O)C4=CC=C(C=C4)OC(=O)CC5=CC=CC=C5	p-Terphenyls	Terphenyls	Shikimates and Phenylpropanoids	False
+C1=CC=C(C=C1)NC2=CC=CC=C2			Shikimates and Phenylpropanoids	False
+CCCCCC=CCC=CCCCCCCCC(=O)OCC1CO1			Fatty acids	False
+CCCCC(=O)C=CC=CC(=O)CCCCCCCC(=O)O	Other Octadecanoids	Octadecanoids	Fatty acids	False
+CCCCCC=CCC=CCC=CCC1C(O1)CCCC(=O)OC	Epoxyeicosatrienoic acids	Eicosanoids	Fatty acids	False
+CC(=O)NC1CCC2=CC(=C(C(=C2C3=CC=C(C(=O)C=C13)NCC(=O)NCC4=CC(=C(C=C4)OC)OC)OC)OC)OC	Phenethylisoquinoline alkaloids	Tyrosine alkaloids	Alkaloids	False
+C1=CC=C(C=C1)NC2=CC=CC=C2			Shikimates and Phenylpropanoids	False
+C1=CC(=CC=C1C2=CSC(=N2)NNC(=O)C3=CC4=C(C=C3)N=CN4)[N+](=O)[O-]	Imidazole alkaloids	Histidine alkaloids	Alkaloids	False
+CC(C(=O)O)NCCO	Aminoacids	Small peptides	Amino acids and Peptides	False
+C1=CC(=O)N(C1=O)CCCCCCC(=O)O			Alkaloids	False
+CCCCCCCCC=CC=CCCCCCCCCCCCCCCC=CC=CCCCC(=O)OC(CO)CO	Diacylglycerols	Glycerolipids	Fatty acids	False
+C1=C(C2=NON=C2C(=C1)[N+](=O)[O-])NC3C(C(C(OC3O)CO)O)O			Carbohydrates	True
+CCCCCC=CCC=CCC=CCC=CCCCC(=O)OC1CC(OC1CCCCC)C(CCCCCCCC=C)O			Fatty acids	False
+C(CC(=O)C(=O)O)CN=C(N)N	Aminoacids	Small peptides	Amino acids and Peptides	False
+CCC(C)C(=O)OC1CC(C=C2C1C(C(C=C2)C)CCC(CC(CC(=O)O)O)O)C	Monacolins and Monacolin derivatives	Cyclic polyketides	Polyketides	False
+CCCCCCCCC=CC=CCCCCCCCCCCCCCCC=CC=CCCCC(=O)OCC(CO)O	Diacylglycerols	Glycerolipids	Fatty acids	False
+CC(=O)NC(CCCN=C(N)NC(=O)NC)C(=O)NC	Tripeptides	Small peptides	Amino acids and Peptides	False
+C1CCCCCC(CCCCC1)(C(=O)O)N				False
+CC(=O)C(CC=C)C(=O)OC	Wax monoesters	Fatty esters	Fatty acids	False
+CCCCCC#COC(=O)OC	Wax monoesters	Fatty esters	Fatty acids	False
+CCCC=CCC(=NCC(=O)O)C=O	Unsaturated fatty acids	Fatty Acids and Conjugates	Fatty acids	False
+CCCCCC=CCC=CCCCCCCCC(=O)OCC1CO1			Fatty acids	False
+CCC=CCC=CCC=CCC=CCC=CCCCCCC(=O)NCCO	N-acyl ethanolamines (endocannabinoids)	Fatty amides	Fatty acids	False
+COC1=C(C(=C2C(=C1)OC(=CC2=O)C3=CC(=C(C=C3)O)O)O)C4C(C(C(C(O4)CO)O)O)O	Flavones	Flavonoids	Shikimates and Phenylpropanoids	False
+CCCCCC=CCC=CCCCCCCCC(=O)OCC1CO1			Fatty acids	False
+COC1=CC2=C(C=C1)C(=O)C(=CO2)C3=CC4=C(C=C3OC)OCO4	Isoflavones	Isoflavonoids	Shikimates and Phenylpropanoids	False
+CCCCCCCCC=CCCCCCCCC(=O)OCCCO	Wax monoesters	Fatty esters	Fatty acids	False
+CC(=O)C(CC=C)C(=O)OC	Wax monoesters	Fatty esters	Fatty acids	False
+CC(C)CCCC(C)C1CCC2C1(CCC3C2C(C=C4C3(CCC(C4)O)C)OC(=O)C)C	Cholestane steroids	Steroids	Terpenoids	False
+CCCCCCCCCCCCCCCCCCCC(=O)N	Primary amides	Fatty amides	Fatty acids	False
+CC(C=O)OC1C(C(OC(C1O)CO)O)NC(=O)C	Aminosugars	Aminosugars and aminoglycosides	Carbohydrates	True
+CC(C)NC1=NC(=NC(=N1)N(C)C#N)NC(C)C	Phenylalanine-derived alkaloids	Pseudoalkaloids	Alkaloids	False
+CC1=C(C(CC(C1)O)(C)C)C=CC(=CC=CC(=CC=CC=C(C)C=CC=O)C)C	Apocarotenoids (β-)	Apocarotenoids	Terpenoids	False
+CC1=CCC(C(C1C=CC(=CC=CC(=CC=CC=C(C)C=CC=C(C)C=CC2=C(C(=O)C(CC2(C)C)O)C)C)C)(C)C)O	Carotenoids (C40, β-ε)	Carotenoids (C40)	Terpenoids	False
+CCCCC(=O)C=CC=CC(=O)CCCCCCCC(=O)O	Other Octadecanoids	Octadecanoids	Fatty acids	False
+CC(=O)OC1=C(C=C(C=C1)C2=C(C(=O)C3=C(O2)C=C(C=C3OC(=O)C)OC(=O)C)OC(=O)C)O	Flavonols	Flavonoids	Shikimates and Phenylpropanoids	False
+CC1=C(C(CC(C1)O)(C)C)C=CC(=CC=CC(=CC=CC=C(C)C=CC=C(CO)C=CC=C(C)C=CCC(C)(C)OC)C)C	Carotenoids (C40, β-Ψ)	Carotenoids (C40)	Terpenoids	False
+CCCCCCCCCC(=O)CCCCCCCCC(=O)O	Other Octadecanoids	Octadecanoids	Fatty acids	False
+CC(=O)C(CC=C)C(=O)OC	Wax monoesters	Fatty esters	Fatty acids	False
+CCCCCC=CCC=CCCCCCCCC(=O)OCC1CO1			Fatty acids	False
+CCOC(=O)C1=CC=CC=C1N(CC(=O)N(C)C)C(=O)C			Alkaloids,Shikimates and Phenylpropanoids	False
+C1=CC=C(C=C1)OC2C(C(C(C(O2)C(=O)O)O)O)O	Simple phenolic acids	Phenolic acids (C6-C1)	Shikimates and Phenylpropanoids	True
+CC(=O)OC1CCC2(C(C1(C)C)CCC3(C2CC=C4C3(CCC5(C4C(C(CC5)(C)C)O)C(=O)OC)C)C)C	Oleanane triterpenoids	Triterpenoids	Terpenoids	False
+C1=CC(=CC=C1CC(C(=O)O)N)O	Aminoacids	Small peptides	Amino acids and Peptides,Shikimates and Phenylpropanoids	False
+CCCCC(CCCC)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O			Shikimates and Phenylpropanoids	False
+CCCCCCCCCCCCCCCCCC(=O)OCC1CO1	Wax monoesters	Fatty esters	Fatty acids	False
+C(CCNCC(=O)C(C(CO)O)O)CC(C(=O)O)N	Aminoacids	Small peptides	Amino acids and Peptides	False
+CCCCCCC1=CC=C(S1)C=O			Polyketides	False
+CCC(C)C(=O)OC1CC(C=C2C1C(C(C=C2)C)CCC(CC(CC(=O)O)O)O)C	Monacolins and Monacolin derivatives	Cyclic polyketides	Polyketides	False
+CCCCCC1=CC(=CC(=C1C(=O)OC2=CC(=C(C(=C2)CCCCC)C(=O)OCC3=CC=CC=C3)OC)O)OC	Depsides	Aromatic polyketides	Polyketides	False
+C(CC(=O)N)C(C(=O)O)N	Aminoacids	Small peptides	Amino acids and Peptides	False
+CCCCCCCCCCCCCCCC(=O)OCC=C(C)CCC1C(=C)CCC2C1(CCCC2(C)C(=O)OC)C	Labdane diterpenoids	Diterpenoids	Terpenoids	False
+CCCCCCCCC=CC=CCCCCCCCCCCCCCCC=CC=CCCCC(=O)OCC(CO)O	Diacylglycerols	Glycerolipids	Fatty acids	False
+CC(C)(C)OC(=O)NCC1CN(CC1O)C(=O)OC(C)(C)C			Alkaloids	False
+C1=CC=C(C=C1)NC2=CC=CC=C2			Shikimates and Phenylpropanoids	False
+CC(C(C(=O)NC(C(C)O)C(=O)NC(C(C)O)C(=O)O)N)O	Tripeptides	Small peptides	Amino acids and Peptides	False
+CCC=CC=CC=CC=CCCCCCCCC(=O)O	Other Octadecanoids,Unsaturated fatty acids	Fatty Acids and Conjugates,Octadecanoids	Fatty acids	False
+CCCCCCCC(=C1C(=O)CCCC1=O)O	Polyprenylated cyclic polyketides (Hop meroterpenoids)	Meroterpenoids	Polyketides	False
+CN1C2=C(C(=O)N(C1=O)C)N(C(=N2)N=NC3=C(NC(=O)NC3=O)O)CC4=CC=CC=C4	Purine alkaloids	Pseudoalkaloids	Alkaloids	False
+C1=CC=C2C(=C1)C(=O)C3=CC=CC=C3C2=O	Anthraquinones and anthrones	Polycyclic aromatic polyketides	Polyketides	False
+CCCCCCCCC=CC=CCCCCCCCCCCCCCCC=CC=CCCCC(=O)OC(CO)CO	Diacylglycerols	Glycerolipids	Fatty acids	False
+CC(C)CC(C(=O)O)NC(=O)C(C(C)C)NC(=O)C1(CCN(CC1)C(=O)OC(C)(C)C)C2=CC=CC=C2	Tripeptides	Small peptides	Amino acids and Peptides	False
+C1CCCCCC(CCCCC1)(C(=O)O)N				False
+CCCCCCC(=O)C=CC=CC(=O)CCCCCC(=O)O	Other Octadecanoids	Octadecanoids	Fatty acids	False
+CCCCCCCCCCCCCCCC(=O)CC(=O)OC	Oxo fatty acids	Fatty Acids and Conjugates	Fatty acids	False
+CC1C2(CC34C1(C=C3)C5C(CCC4(C)O)C(=C)C(=O)O5)C6C(CC(=C7C(C6OC2=O)C(=CC7=O)C)C)OC(=O)C	Guaiane sesquiterpenoids	Sesquiterpenoids	Terpenoids	False
+CC1=C(C2=C(CCC(O2)(C)CCCC(C)CCCC(C)CCCC(=C)C)C(=C1O)C)C	Prenyl quinone meroterpenoids	Meroterpenoids	Terpenoids	False
+CCCCCCCCC1CCC2C1(CCC3C2CC=C4C3(CCC(C4)SC(=O)OCCCCC)C)C	Cholestane steroids	Steroids	Terpenoids	False
+C(CC(C(=O)O)N)CNC(=O)N	Aminoacids	Small peptides	Amino acids and Peptides	False
+COC(=O)C=CC=CC(=O)OC	Wax monoesters	Fatty esters	Fatty acids	False
+CCCCCC=CCC=CCC=CCC=CCCCC(=O)OC1CC(OC1CCCCC)C(CCCCCCCC=C)O			Fatty acids	False
+CCCCCCCCCCCCCCCCCCC(=O)OCC1(C2CCC(C=CCC(=C)C2CO1)(C)O)C=CC=C(C)C		Diterpenoids	Terpenoids	False
+CC(=C)C1CCC2(C1C3CCC4C5(CCC(C(C5CCC4(C3(CC2)CO)C)(C)C(=O)OC)OC(=O)C)C)C	Lupane triterpenoids	Triterpenoids	Terpenoids	False
+CC(=O)C(CC=C)C(=O)OC	Wax monoesters	Fatty esters	Fatty acids	False
+CCCCCC=CCC=CCCCCCCCC(=O)OCC1CO1			Fatty acids	False
+CC1C(=O)C(C(C(O1)C2=C(C3=C(C=C2O)OC(=CC3=O)C4=CC(=CC=C4)OC)O)O)O	Flavones	Flavonoids	Shikimates and Phenylpropanoids	False
+CC(=CCC1=C(C(=C2C(=C1O)C(=O)C(=CO2)C3=CC4=C(C=C3O)OCO4)CC=C(C)C)O)C	Isoflavones	Isoflavonoids	Shikimates and Phenylpropanoids	False
+CCCCCCCCC=CCCCCCCC(C(CCCCCCCC=CCCCCCC)OC(=O)C)C(=O)OC	Fatty acid estolides,Wax monoesters	Fatty esters	Fatty acids	False
+C1CCCCCC(CCCCC1)(C(=O)O)N				False
+CCCCCCCCCCCC(C(CO)N)O	Sphingoid bases	Sphingolipids	Fatty acids	False
+CC(C)NC1=NC(=NC(=N1)N(C)C#N)NC(C)C	Phenylalanine-derived alkaloids	Pseudoalkaloids	Alkaloids	False
+COC1=CC(=CC(=C1O)OC)C(CC(=O)OC)C2=C(C=C(C3=C2OC(=C(C3=O)O)C4=CC(=C(C=C4)O)O)O)O	Flavonols	Flavonoids	Shikimates and Phenylpropanoids	False
+C(C1C(C(C(C(O1)OP(=O)(O)OCC(C(=O)O)N)O)O)O)O	Aminosugars	Aminosugars and aminoglycosides	Carbohydrates	True
+C1=CC=C(C=C1)NC2=CC=CC=C2			Shikimates and Phenylpropanoids	False
+CC1=C(C(CCC1)(C)C)C=CC(=CC=CC(=CC=CC=C(C)C=CC=C(C)C=CC2=C(CCC(=O)C2(C)C)C)C)C	Carotenoids (C40, β-β)	Carotenoids (C40)	Terpenoids	False
+C1=CC=C(C=C1)NC2=CC=CC=C2			Shikimates and Phenylpropanoids	False
+CCCCCCCCC=CC=CCCCCCCCCCCCCCCC=CC=CCCCC(=O)OCC(CO)O	Diacylglycerols	Glycerolipids	Fatty acids	False
+CCC(C)C(=O)OC1CC(C=C2C1C(C(C=C2)C)CCC(CC(CC(=O)O)O)O)C	Monacolins and Monacolin derivatives	Cyclic polyketides	Polyketides	False
+CC(C)CN(C(C(C)C)C(=O)NO)S(=O)(=O)C1=CC=CC(=C1)COC				False
+CCCCCC#COC(=O)OC	Wax monoesters	Fatty esters	Fatty acids	False
+C1COC2=C(C=C(C=C2)[N+](=O)[O-])C(=O)NC(C(=O)NC(C(=O)NC1C(=O)NCC(=O)O)CCCCN)CCC(=O)O	Cyclic peptides	Oligopeptides	Amino acids and Peptides	False
+C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)CO)O)O)N	Purine nucleos(t)ides	Nucleosides	Carbohydrates	False
+CC(C)(C)OC(=O)NCC1CN(CC1O)C(=O)OC(C)(C)C			Alkaloids	False
+CCCCCCCCC=CC=CCCCCCCCCCCCCCCC=CC=CCCCC(=O)OCC(CO)O	Diacylglycerols	Glycerolipids	Fatty acids	False
+CC(C)(C)C1=CC(=C(C(=C1)COC)O)COC			Polyketides	False
+CCCCCC#COC(=O)OC	Wax monoesters	Fatty esters	Fatty acids	False
+CCCCCC=CCC=CCCCCCCCC(=O)OCC1CO1			Fatty acids	False
+C1C(C(C(C(O1)C2=C(C(=C3C(=C2O)C(=O)C=C(O3)C4=CC=C(C=C4)O)C5C(C(C(C(O5)CO)O)O)O)O)O)O)O	Flavones	Flavonoids	Shikimates and Phenylpropanoids	False
+CCCCCC=CCC=CCCCCCCCC(=O)OCC1CO1			Fatty acids	False
+C(CCC(=O)O)CC=CCC=CCC=CCC=CCCCC(=O)O	Dicarboxylic acids,Unsaturated fatty acids	Fatty Acids and Conjugates	Fatty acids	False
+COC1=CC(=CC(=C1OC(CO)C(C2=CC(=C(C=C2)O)OC)O)OC)C3=CC(=O)C4=C(C=C(C=C4O3)O)O	Flavonolignans	Lignans,Flavonoids	Shikimates and Phenylpropanoids	False
+COC(=O)C1(CC(C(C(C1)OC(=O)C=CC2=CC(=C(C=C2)O)O)O)OC(=O)C=CC3=CC(=C(C=C3)O)O)O	Cinnamic acids and derivatives	Phenylpropanoids (C6-C3)	Shikimates and Phenylpropanoids	False
+CC1=CC(=O)OC1CC2C(=C)CCC3C2(CCCC3(C)C(=O)O)C	Labdane diterpenoids	Diterpenoids	Terpenoids	False
+C1=CC=C(C=C1)OC2C(C(C(C(O2)C(=O)O)O)O)O	Simple phenolic acids	Phenolic acids (C6-C1)	Shikimates and Phenylpropanoids	True
+CC1=C2COC(=O)C2=C(C(=C1OC)CC=C(C)CCC(=O)OC)O	Phthalide derivatives	Cyclic polyketides	Polyketides	False
+CC(CCC(=O)N)C1CCC2C1(C(CC3C2C(CC4C3(CCC(C4)O)C)O)O)C	Cholane steroids	Steroids	Terpenoids	False
+COCCC(C(=O)O)N	Aminoacids	Small peptides	Amino acids and Peptides	False
+CC1=C(C(CC(C1)O)(C)C)C=CC(=CC=CC(=CC=CC=C(C)C=CC=C(C)C=CC2(C(=CC(CC2(C)C)O)C)O)C)C	Carotenoids (C40, β-ε)	Carotenoids (C40)	Terpenoids	False
+CCCCCCCCCC(=O)CCCCCCCCC(=O)O	Other Octadecanoids	Octadecanoids	Fatty acids	False
+CCCCCCCCC=CC=CCCCCCCCCCCCCCCC=CC=CCCCC(=O)OCC(CO)O	Diacylglycerols	Glycerolipids	Fatty acids	False
+CC1=CC(=C(C(=C1)C(C)(C)C)O)C2(CCC3C2C4CCC3C4)C5=C(C(=CC(=C5)C)C(C)(C)C)O		Steroids	Terpenoids	False
+COC1=C(C(=C(C=C1)C2(C(=O)NC(=O)N2)C3=CC(=C(C(=C3)OC)OC)OC)OC)OC			Alkaloids	False
+CCCCCC=CCC=CCC=CCC=CCCCC(=O)OC1CC(OC1CCCCC)C(CCCCCCCC=C)O			Fatty acids	False
+C1=CC=C(C=C1)NC2=CC=CC=C2			Shikimates and Phenylpropanoids	False
+CN(C(=O)SCC(C(=O)NCC(=O)O)NC(=O)CCC(C(=O)O)N)O	Tripeptides	Small peptides	Amino acids and Peptides	False
+C1=CC=C(C=C1)NC2=CC=CC=C2			Shikimates and Phenylpropanoids	False
+CC(=O)OC1CCC2(C3CCC4(C(CC=C4C3(C(CC2C1(C)C)O)C)C5=CC(OC5=O)C(C(C)(C)O)O)C)C	Apotirucallane triterpenoids,Lanostane, Tirucallane and Euphane triterpenoids	Triterpenoids	Terpenoids	False
+C(CC(=O)C[N+]#N)CN(CCN(CCC(=O)O)[N+](=O)[O-])[N+](=O)[O-]	Polyamines	Ornithine alkaloids	Alkaloids	False
+CCCCCCCCCCCCCCCCCC(=O)OCC1CO1	Wax monoesters	Fatty esters	Fatty acids	False
+CCC=CCC=CCC=CCC#CCCCCC(=O)O	Unsaturated fatty acids	Fatty Acids and Conjugates	Fatty acids	False
+CCCCCCCCCCCCCCCCCCN1C2=CC=CC=C2C(C1=CN=C3C4=C(C=CC3=O)N=CC=C4)(C)C			Alkaloids	False
+CCC(C)C(=O)OC1CC(C=C2C1C(C(C=C2)C)CCC(CC(CC(=O)O)O)O)C	Monacolins and Monacolin derivatives	Cyclic polyketides	Polyketides	False
+CCCCCC=CCC=CCC=CCC=CCCCC(=O)OC1CC(OC1CCCCC)C(CCCCCCCC=C)O			Fatty acids	False
+CCCCCCCCC=CCCCCCCCC(=O)OCC1CO1			Fatty acids	False
+CCCCCC=CCC=CCC=CCC1C(O1)CCCC(=O)OC	Epoxyeicosatrienoic acids	Eicosanoids	Fatty acids	False
+C=CCCCCCCCCC(=O)NCCO	N-acyl ethanolamines (endocannabinoids)	Fatty amides	Fatty acids	False
+CCCCCC=CCC=CCC=CCC=CCCCC(=O)OC1CC(OC1CCCCC)C(CCCCCCCC=C)O			Fatty acids	False
+CCCCCCC=CCCCCCCCC(C(CCCCCCC=CCCCCCC)C(=O)O)O	Unsaturated fatty acids	Fatty Acids and Conjugates	Fatty acids	False
+CCCCCCCCCCCCCCCC(=O)OCC=C(C)CCC1C(=C)CCC2C1(CCCC2(C)C(=O)OC)C	Labdane diterpenoids	Diterpenoids	Terpenoids	False
+CCCCCCCCCCCCCCC(=O)NCC1=CC=CC=C1	N-acyl amines	Fatty amides	Fatty acids	False
+CCCCCC=CCC=CCC=CCC=CCCCC(=O)OC1CC(OC1CCCCC)C(CCCCCCCC=C)O			Fatty acids	False
+CCCCCC#COC(=O)OC	Wax monoesters	Fatty esters	Fatty acids	False
+CCCCCCCCC=CC=CCCCCCCCCCCCCCCC=CC=CCCCC(=O)OC(CO)CO	Diacylglycerols	Glycerolipids	Fatty acids	False
+CC(C=CC1=CC(=C(C=C1OC)OC)OC)C2=C(C(=CC(=C2)C=CC(=O)CC(=O)C=CC3=CC(=C(C=C3)O)OC)OC)O	Linear diarylheptanoids	Diarylheptanoids	Shikimates and Phenylpropanoids	False
+CCCCCCCCC=CCCCCCCCC(=O)OCC1CO1			Fatty acids	False
+C=C1CSC(N=C1C(=O)O)C(C(=O)O)NC(=O)CCCCC(C(=O)O)N	Aminoacids	Small peptides	Amino acids and Peptides	False
+CCCCN1C2=C(N=C1NCCN(C)C)N(C(=O)NC2=O)C	Purine alkaloids	Pseudoalkaloids	Alkaloids	False
+CC(C)OC1=CC=CC=C1OC(=O)NC			Alkaloids,Shikimates and Phenylpropanoids	False
+CCCCCCCCCCCCCCCCC=C(OC(=O)C)OS(=O)(=O)O			Fatty acids	False
+CCCCCC(=O)OCC(COC(=O)CCCCC)OC(=O)CC=CCC=CCC=CCC=CCC=CCC=CCCC	Triacylglycerols	Glycerolipids	Fatty acids	False
+CC=CC=CC#CC=CC=CCCCCC(=O)CCOC(=O)C			Fatty acids	False
+CC1C(=O)C(C(C(O1)C2=C(C3=C(C=C2O)OC(=CC3=O)C4=CC(=CC=C4)OC)O)O)O	Flavones	Flavonoids	Shikimates and Phenylpropanoids	False
+C[N+](C)(C)CCOP(=O)(O)O			Fatty acids	False
+CCCCCC=CCC=CCCCCCCCC(=O)OCC1CO1			Fatty acids	False
+CC(=O)C(CC=C)C(=O)OC	Wax monoesters	Fatty esters	Fatty acids	False
+CCCCCC=CCC=CCCCCCCCC(=O)OCC1CO1			Fatty acids	False
+CCCCCC=CCC=CCCCCCCCC(=O)OCC1CO1			Fatty acids	False
+CCCCCCCCC=CCCCCCCCC(=O)OCC1CO1			Fatty acids	False
+CC1(CCC2(CCC3(C(=CCC4C3(CCC5C4(CCC(=O)C5(C)C)C)C)C2C1)C)C=O)C	Oleanane triterpenoids	Triterpenoids	Terpenoids	False
+C1=CC=C(C=C1)NC2=CC=CC=C2			Shikimates and Phenylpropanoids	False
+CCCCC(=O)C=CC=CC(=O)CCCCCCCC(=O)O	Other Octadecanoids	Octadecanoids	Fatty acids	False
+CCCCCCCCCCCCCCCC(=O)OCC=C(C)CCC1C(=C)CCC2C1(CCCC2(C)C(=O)OC)C	Labdane diterpenoids	Diterpenoids	Terpenoids	False
+C1CCC(CC1)C(=O)OC(=O)C2CCCCC2			Amino acids and Peptides	False
+CC1C(C(C(C(O1)OCC2C(C(C(C(O2)OC3=CC(=C4C(=C3)OC(=CC4=O)C5=CC(=C(C=C5)O)O)O)O)O)O)O)O)O	Flavones	Flavonoids	Shikimates and Phenylpropanoids	True
+C(CCN)CC(C(=O)NC(CCN)C(=O)NC(CCCCN)C(=O)O)N	Tripeptides	Small peptides	Amino acids and Peptides	False
+CC(C(=O)O)NCCO	Aminoacids	Small peptides	Amino acids and Peptides	False
+CCCCCCC(C)C=C(C)C=CC(=O)NC1CC2(C3C(O3)C(C4C2O4)(CC(=O)C)O)OC1O		Linear polyketides	Polyketides	True
+CCCCCC#COC(=O)OC	Wax monoesters	Fatty esters	Fatty acids	False
+C1=CC=C(C=C1)N(CCOC(=O)N)CCOC(=O)N			Alkaloids	False
+CC=C(C)C(=O)OC1C2=C(C(=O)OC2CC3C1(C(C(CC3)OC(=O)C=CS(=O)C)C)C)C	Eremophilane sesquiterpenoids	Sesquiterpenoids	Terpenoids	False
+CCOP(=S)(OCC)OC1=CC=C(C=C1)C#N				False
+CCCCCCCCCOC(=O)C1=CC=CC=C1C(=O)OCCCC(C)CCCC	Shikimic acids and derivatives,Simple phenolic acids	Phenolic acids (C6-C1)	Shikimates and Phenylpropanoids	False
+CC12CCC3C(C1CCC2O)CCC4=C3CCC(=O)C4	Estrane steroids	Steroids	Terpenoids	False
+CC(C)C(C(=O)O)NCC(=O)C(C(C(CO)O)O)O	Aminosugars	Aminosugars and aminoglycosides	Carbohydrates	False
+CC1C(C(C(C(O1)OC2CC(CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=O)C(=CC=C5)OC)O)(C(=O)CO)O)OC)O)O	Anthracyclines	Polycyclic aromatic polyketides	Polyketides	True
+CC(C)C(C(=O)O)NC(=O)C(CC1=CN=CN1)N	Dipeptides	Small peptides	Amino acids and Peptides	False
+CC(=O)OC1=CC2=C(C(=C1)OC(=O)C)C(=O)C=C(O2)C3=CC=C(C=C3)OC	Flavones	Flavonoids	Shikimates and Phenylpropanoids	False
+CCCCCCCCCC(=O)CCCCCCCCC(=O)O	Other Octadecanoids	Octadecanoids	Fatty acids	False
+CCCCCC#CCC#CCCCCCCCC(=O)O	Unsaturated fatty acids	Fatty Acids and Conjugates	Fatty acids	False
+CC(C(=O)O)NCCO	Aminoacids	Small peptides	Amino acids and Peptides	False
+CCCCCCCCCCCCCCCC(=O)OCC=C(C)CCC1C(=C)CCC2C1(CCCC2(C)C(=O)OC)C	Labdane diterpenoids	Diterpenoids	Terpenoids	False
+CCCCCCCCC=CCCCCCCCC(=O)OCC1CO1			Fatty acids	False
+CC1=CC2=CC(=C(C(=C2C(=O)O1)O)C(CC(C(=O)O)OC)C3=C(C=C4C=C(OC(=O)C4=C3O)C)O)O	Isocoumarins	Coumarins	Shikimates and Phenylpropanoids	False
+CCCCCCCCCC(=O)CCCCCCCCC(=O)O	Other Octadecanoids	Octadecanoids	Fatty acids	False
+CC1C(=O)C(C(C(O1)C2=C(C3=C(C=C2O)OC(=CC3=O)C4=CC(=CC=C4)OC)O)O)O	Flavones	Flavonoids	Shikimates and Phenylpropanoids	False
+CC(=O)C(CC=C)C(=O)OC	Wax monoesters	Fatty esters	Fatty acids	False
+CC12CCC3C4(CCC(C(C4CCC3(C1)C=C2)(C)C(=O)O)O)C	Beyerane diterpenoids,Norkaurane diterpenoids	Diterpenoids	Terpenoids	False
+CC(=O)OC1C(C(C(OC1C2=C(C=C(C3=C2OC(=CC3=O)C4=CC=C(C=C4)O)O)OC)CO)O)O	Flavones	Flavonoids	Shikimates and Phenylpropanoids	False
+CCCCCCCCCC(=O)CCCCCCCCC(=O)O	Other Octadecanoids	Octadecanoids	Fatty acids	False
+CC(C(=O)O)NCCO	Aminoacids	Small peptides	Amino acids and Peptides	False
+CCC=CCC=CCC=CCCCCCCCC(=O)OCC(CO)O	Monoacylglycerols	Glycerolipids	Fatty acids	False
+CCCCCCCCCCCCCCCCCCN1C2=CC=CC=C2C(C1=CN=C3C4=C(C=CC3=O)N=CC=C4)(C)C			Alkaloids	False
+CCCCCC=CCC=CCC=CCC1C(O1)CCCC(=O)OC	Epoxyeicosatrienoic acids	Eicosanoids	Fatty acids	False
+C1=CC=C2C(=C1)C(=CN2)C=CC(=O)O	Cinnamic acids and derivatives,Simple indole alkaloids	Tryptophan alkaloids,Phenylpropanoids (C6-C3)	Alkaloids,Shikimates and Phenylpropanoids	False
+CC1(CC2C3=CC(=O)C4C56CCCCC4(C3(CC(C2(C7(C1)CCCC7)CO)O)C)CCC5C(C(CC6)O)(C)CO)C			Terpenoids	False
+CCCCCCCCCC(=O)CCCCCCCCC(=O)O	Other Octadecanoids	Octadecanoids	Fatty acids	False
+CC(=O)C(CC=C)C(=O)OC	Wax monoesters	Fatty esters	Fatty acids	False
+C(CCC(=O)O)CC=CCC=CCC=CCC=CCCCC(=O)O	Dicarboxylic acids,Unsaturated fatty acids	Fatty Acids and Conjugates	Fatty acids	False
+CC(=O)NC1C(CC(OC1C(C(CNC(=O)C2=CC3=CC=CC=C3C=C2)O)O)(C(=O)O)O)O	Aminosugars	Aminosugars and aminoglycosides	Carbohydrates	True
+CC1=CC2=C(C=C1)N=C(N=C2N)N			Alkaloids	False
+C1=CC=C(C=C1)NC2=CC=CC=C2			Shikimates and Phenylpropanoids	False
+C1=C(C=C(C=C1O)O)CCCCCCCCCC=CCCCC2=CC(=CC(=C2)O)O	Catechols with side chains	Aromatic polyketides	Polyketides	False
+CC(=O)OC1C(C(C(OC1C2=C(C=C(C3=C2OC(=CC3=O)C4=CC=C(C=C4)O)O)O)CO)O)O	Flavones	Flavonoids	Shikimates and Phenylpropanoids	False
+CC1=CCCC(=C)C(CCC(=CC(C(CC1)C(=C)C)OC(=O)C)COC(=O)C)O	Cembrane diterpenoids,Dolabellane diterpenoids	Diterpenoids	Terpenoids	False
+CC(C(=O)O)NCCO	Aminoacids	Small peptides	Amino acids and Peptides	False
+CCCCCC=CCC=CCC=CCC=CCCCC(=O)OC1CC(OC1CCCCC)C(CCCCCCCC=C)O			Fatty acids	False
+CCC=CCC=CCC=CCCCCCCCC=O	Fatty aldehydes	Fatty acyls	Fatty acids	False
+CC1=C2CCC3C4CCC(C4(CCC3C2(CC=C1)C)C)C(C)CCCC(C)C	Cholestane steroids	Steroids	Terpenoids	False
+CN(C(=O)SCC(C(=O)NCC(=O)O)NC(=O)CCC(C(=O)O)N)O	Tripeptides	Small peptides	Amino acids and Peptides	False
+C1C(C(OC1N2C=C(C(=O)NC2=O)C=O)CO)O	Pyrimidine nucleos(t)ides	Nucleosides	Carbohydrates	False
+CCCCCCCCC=CCCCCCCCC(C(CCCCCCC=CCCCCCC)C(=O)OC)OC(=O)C	Fatty acid estolides,Wax monoesters	Fatty esters	Fatty acids	False
+CCCCCC=CCC=CCCCCCCCC(=O)NCCO	N-acyl ethanolamines (endocannabinoids)	Fatty amides	Fatty acids	False
+CCCCCCCCCC(=O)CCCCCCCCC(=O)O	Other Octadecanoids	Octadecanoids	Fatty acids	False
+CCCCC(=O)C=CC=CC(=O)CCCCCCCC(=O)O	Other Octadecanoids	Octadecanoids	Fatty acids	False
+CC(=O)N(C1=CC(=C(C=C1)OC)NC(C)(O)O)C(C)(O)O	Simple amide alkaloids	Peptide alkaloids	Alkaloids	False
+CC(=O)OC1C(C(C(OC1C2=C(C=C(C3=C2OC(=CC3=O)C4=CC=C(C=C4)O)O)OC)CO)O)O	Flavones	Flavonoids	Shikimates and Phenylpropanoids	False
+CC(CCC(=O)O)C1CCC2C1(C(CC3C2C(CC4=CC(=O)CCC34C)O)O)C	Cholane steroids	Steroids	Terpenoids	False
+CCCCCCC=CCCCCCCCC(=O)OC(CO)COC(=O)CCCCCCCC=CCC=CCC=CCC	Diacylglycerols	Glycerolipids	Fatty acids	False
+CC1=CCCC2(C1CC(CC2)C(C)(C)OC3C(C(C(CO3)OC(=O)C)OC(=O)C)OC(=O)C)C	Eudesmane sesquiterpenoids	Sesquiterpenoids	Terpenoids	True
+CC(C)(C)OC(=O)N1CCC(=O)CC1C(=O)O			Amino acids and Peptides	False
+CCCCCCCC(=C1C(=O)CCCC1=O)O	Polyprenylated cyclic polyketides (Hop meroterpenoids)	Meroterpenoids	Polyketides	False
+COC(=O)C=CC=CC(=O)OC	Wax monoesters	Fatty esters	Fatty acids	False
+CCCCCC=CCC=CCCCCCCCC(=O)OCC1CO1			Fatty acids	False
+CCCCCC#COC(=O)OC	Wax monoesters	Fatty esters	Fatty acids	False
+CCCCCCCCC=CC=CCCCCCCCCCCCCCCC=CC=CCCCC(=O)OC(CO)CO	Diacylglycerols	Glycerolipids	Fatty acids	False
+C1COCCOCCN2CCOCCOCCN1CCOCCOCC2				False
+CCCCCCCCCCCCCCCC(=O)OCC=C(C)CCC1C(=C)CCC2C1(CCCC2(C)C(=O)OC)C	Labdane diterpenoids	Diterpenoids	Terpenoids	False
+CC1C(C(C(C(O1)OC2C(C(C(OC2C3=C(C4=C(C=C3O)OC(=CC4=O)C5=CC=C(C=C5)O)O)CO)O)O)O)O)O	Flavones	Flavonoids	Shikimates and Phenylpropanoids	True
+CC(C)C(C)CCC(C)C1CCC2C1(CCC3C2CCC4=CC(=O)CCC34C)C	Cholestane steroids,Ergostane steroids	Steroids	Terpenoids	False
+CCCCN1C2=C(N=C1NCCN(C)C)N(C(=O)NC2=O)C	Purine alkaloids	Pseudoalkaloids	Alkaloids	False
+CCCCCC=CCC=CCCCCCCCCCC(=O)NCCO	N-acyl ethanolamines (endocannabinoids)	Fatty amides	Fatty acids	False
+CC(C(C(=O)O)NC(=O)C(CC1=CC=CC=C1)N)O	Dipeptides	Small peptides	Amino acids and Peptides	False
+C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)OC(=O)CCCCCC(=O)O)O)O)N	Purine nucleos(t)ides	Nucleosides	Carbohydrates	False
+C1=CC=C(C=C1)NC2=CC=CC=C2			Shikimates and Phenylpropanoids	False
+C1=CC=C2C(=C1)C(=CN2)CC(C(=O)O)N	Aminoacids	Small peptides	Amino acids and Peptides,Shikimates and Phenylpropanoids	False
+CCCCCC=CCC=CCCCCCCCC(=O)OCC1CO1			Fatty acids	False
+CC(=O)C(CC=C)C(=O)OC	Wax monoesters	Fatty esters	Fatty acids	False
+CC(=O)OCC1C(C(C(C(O1)OC2=C(C(=C3C(=C2)OC(=CC3=O)C4=CC=C(C=C4)OC)O)OC)O)O)O	Flavones	Flavonoids	Shikimates and Phenylpropanoids	True
+CC(=O)C(CC=C)C(=O)OC	Wax monoesters	Fatty esters	Fatty acids	False
+C(CC(=O)O)CN=C(N)N	Aminoacids	Small peptides	Amino acids and Peptides	False
+CCC=CCC=CCC=CCCCCCCCC(=O)O	Unsaturated fatty acids	Fatty Acids and Conjugates	Fatty acids	False
+CCCCCCCCCCCCCC=CC(=O)NCC(C)C	N-acyl amines	Fatty amides	Fatty acids	False
+C(CC(C(=O)O)N)CN=C(N)N	Aminoacids	Small peptides	Amino acids and Peptides	False
+CCCCCC#COC(=O)OC	Wax monoesters	Fatty esters	Fatty acids	False
+CCCCCCCCCCCCC=CCCC1C(O1)CCC2C(O2)CCCCCCCCCCC3=CC(OC3=O)C	Acetogenins	Linear polyketides	Polyketides	False
+CC1=CC(=CC(=C1C(=O)O)O)OC(=O)C2=C(C=C(C=C2C)OC(=O)C3=C(C=C(C(=C3C)OC(=O)C)O)OC)O	Depsides	Aromatic polyketides	Polyketides	False
+CC(=O)OCC1C(C(C(C(O1)OC2=CC3=C(C=C2)C4=C(CCCCC4)C(=O)O3)OC(=O)C)OC(=O)C)OC(=O)C	Simple coumarins	Coumarins	Shikimates and Phenylpropanoids	True
+CCCCCC#COC(=O)OC	Wax monoesters	Fatty esters	Fatty acids	False
+CCCCCC=CCC=CCC=CCC=CCCCC(=O)OC1CC(OC1CCCCC)C(CCCCCCCC=C)O			Fatty acids	False
+CCCCCC#COC(=O)OC	Wax monoesters	Fatty esters	Fatty acids	False
+CCOC(=O)CCCCCCC1=CCCC1=O				False
+CC(=O)N(C1=CC(=C(C=C1)OC)NC(C)(O)O)C(C)(O)O	Simple amide alkaloids	Peptide alkaloids	Alkaloids	False
+CCCCCNS(=O)(=O)C1=C(C=CC(=C1)S(=O)(=O)N)C(=O)O			Alkaloids	False
+C1=CC=C2C(=C1)C(=CN2)C=CC(=O)O	Cinnamic acids and derivatives,Simple indole alkaloids	Tryptophan alkaloids,Phenylpropanoids (C6-C3)	Alkaloids,Shikimates and Phenylpropanoids	False
+CN(C(=O)SCC(C(=O)NCC(=O)O)NC(=O)CCC(C(=O)O)N)O	Tripeptides	Small peptides	Amino acids and Peptides	False
+CCCCCCCCC=CCCCCCCCC(=O)NCC	N-acyl amines	Fatty amides	Fatty acids	False
+CC(C)CCCCCCCC=CC(=O)NO			Fatty acids	False
+CCCCCC=CCC=CCCCCCCCC(=O)NCC(C)C	N-acyl amines	Fatty amides	Fatty acids	False
+CCCCCCCCC=CCCCCCCCC(C(CCCCCCC=CCCCCCC)C(=O)OC)OC(=O)C	Fatty acid estolides,Wax monoesters	Fatty esters	Fatty acids	False
+CCCCCC=CCC=CCC=CCC=CCCCC(=O)OC1CC(OC1CCCCC)C(CCCCCCCC=C)O			Fatty acids	False
+C1=C(C=C(C=C1C(=O)N)C(=O)O)C(=O)N	Simple amide alkaloids	Peptide alkaloids	Alkaloids	False
+CC(=O)OCC1C(C(C(C(O1)C2=C(C=C(C3=C2OC(=CC3=O)C4=CC(=C(C=C4)O)OC)O)O)O)O)O	Flavones	Flavonoids	Shikimates and Phenylpropanoids	False
+CCCCCCCC(=O)C1C(=O)CCCC1=O	Simple cyclic polyketides	Cyclic polyketides	Polyketides	False
+CCCCCC=CCC=CCCCCCCCC(=O)OCC1CO1			Fatty acids	False
+CCCCCC=CCC=CCC=CCC=CCCCC(=O)OC1CC(OC1CCCCC)C(CCCCCCCC=C)O			Fatty acids	False
+C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)O)O)O)N	Purine nucleos(t)ides	Nucleosides	Carbohydrates	False
+CCCCCCCC(=C1C(=O)CCCC1=O)O	Polyprenylated cyclic polyketides (Hop meroterpenoids)	Meroterpenoids	Polyketides	False
+CCCCCCCCCC(=O)CCCCCCCCC(=O)O	Other Octadecanoids	Octadecanoids	Fatty acids	False
+CC(=O)NC1=CC=C(C=C1)S(=O)(=O)N(C=C)C=C				False
+CCCCCCCCC=CCCCCCCCC(C(CCCCCCC=CCCCCCC)C(=O)OC)OC(=O)C	Fatty acid estolides,Wax monoesters	Fatty esters	Fatty acids	False
+C1=CC=C(C=C1)NC2=CC=CC=C2			Shikimates and Phenylpropanoids	False
+CCCCCCCCC=CC=CCCCCCCCCCCCCCCC=CC=CCCCC(=O)OCC(CO)O	Diacylglycerols	Glycerolipids	Fatty acids	False
+CCCCCC#COC(=O)OC	Wax monoesters	Fatty esters	Fatty acids	False
+CCCCCCCCCOC(=O)C1=CC=CC=C1C(=O)OCCCC(C)CCCC	Shikimic acids and derivatives,Simple phenolic acids	Phenolic acids (C6-C1)	Shikimates and Phenylpropanoids	False
+CC(=O)OCC1C(C(C(C(O1)C2=C(C=C(C3=C2OC(=CC3=O)C4=CC(=C(C=C4)O)OC)O)O)O)O)O	Flavones	Flavonoids	Shikimates and Phenylpropanoids	False
+CCC=CC=CC=CC=CCCCCCCCC(=O)O	Other Octadecanoids,Unsaturated fatty acids	Fatty Acids and Conjugates,Octadecanoids	Fatty acids	False
+C(CC(=O)C[N+]#N)CN(CCN(CCC(=O)O)[N+](=O)[O-])[N+](=O)[O-]	Polyamines	Ornithine alkaloids	Alkaloids	False
+CC1C(=O)C(C(C(O1)C2=C(C3=C(C=C2O)OC(=CC3=O)C4=CC(=CC=C4)OC)O)O)O	Flavones	Flavonoids	Shikimates and Phenylpropanoids	False
+CCCCCCCCC=CCCCCCCC=CCCCCCCCC(CCO)OC(=O)C	Fatty alcohols	Fatty acyls	Fatty acids	False
+CCCCCC=CCC=CCC=CCC1C(O1)CCCC(=O)OC	Epoxyeicosatrienoic acids	Eicosanoids	Fatty acids	False
+CC(=O)OCCCCCCCCC=CCC#CC#CC(=O)C=C	Wax monoesters	Fatty esters	Fatty acids	False
+C1=CC(=CC(=C1)CC(C(=O)O)N)CC(C(=O)O)N	Aminoacids	Small peptides	Amino acids and Peptides	False
+CCC(C)C(C(=O)O)NC(CCC(=O)O)C(=O)O	Aminoacids	Small peptides	Amino acids and Peptides	False
+CC(=O)OC1C(C(C(OC1C2=C(C=C(C3=C2OC(=CC3=O)C4=CC=C(C=C4)O)O)OC)CO)O)O	Flavones	Flavonoids	Shikimates and Phenylpropanoids	False
+CC1=C(C(CC(C1)O)(C)C)C=CC(=CC=CC(=CC=CC=C(C)C=CC=C(CO)C=CC=C(C)C=CCC(C)(C)OC)C)C	Carotenoids (C40, β-Ψ)	Carotenoids (C40)	Terpenoids	False
+CCCCCCCCC=CC=CCCCCCCCCCCCCCCC=CC=CCCCC(=O)OCC(CO)O	Diacylglycerols	Glycerolipids	Fatty acids	False
+CCC=CCC=CC=CC(=O)CCCCCCCC(=O)O	Other Octadecanoids	Octadecanoids	Fatty acids	False
+CC1=CC(=C(C2=C1C(=O)C=C(O2)CC(=O)C)C3C(C(C(C(O3)CO)O)O)O)O	Chromones	Chromanes	Polyketides	False
+CCC(C)C(=O)OC1CC(C=C2C1C(C(C=C2)C)CCC(CC(CC(=O)O)O)O)C	Monacolins and Monacolin derivatives	Cyclic polyketides	Polyketides	False
+C1=CN(C(=O)N=C1N)C2C(C(C(O2)CO)O)N=[N+]=[N-]	Pyrimidine nucleos(t)ides	Nucleosides	Carbohydrates	False
+CCCCCCCCC=CCCCCCCCC(=O)OCC1CO1			Fatty acids	False
+CC1=CC=CC=C1COC2=CC3=C(C=C2)C(=O)C(=C(O3)C)C4=CC=CC=C4	Chromones	Chromanes	Polyketides	False
+CCCCCCCCCC(=O)CCCCCCCCC(=O)O	Other Octadecanoids	Octadecanoids	Fatty acids	False
+CCCCCCCCCC(=O)CCCCCCCCC(=O)O	Other Octadecanoids	Octadecanoids	Fatty acids	False
+CC(=O)C(CC=C)C(=O)OC	Wax monoesters	Fatty esters	Fatty acids	False
+C1=CC2=C(C(=C1)OP(=O)(O)O)C(=CN2)CCN	Simple indole alkaloids	Tryptophan alkaloids	Alkaloids	False
+CCCCCCCC(=C1C(=O)CCCC1=O)O	Polyprenylated cyclic polyketides (Hop meroterpenoids)	Meroterpenoids	Polyketides	False
+CC(C(=O)NC(CC1=CC=C(C=C1)O)C(=O)NC(C)C(=O)O)N	Tripeptides	Small peptides	Amino acids and Peptides	False
+CCCC(=O)NC1C(C(C(OC1O)CO)O)O	Aminosugars	Aminosugars and aminoglycosides	Carbohydrates	True
+CC1=C(N2C(C(C2=O)(NC(=O)CCCC(C(=O)O)N)OC)SC1)C(=O)O	Cephalosporins	β-lactams	Amino acids and Peptides	False
+CC(=O)OC1=CC=C(C=C1)C2=CC(=O)C3=C(O2)C=C(C=C3OC(=O)C)OC(=O)C	Flavones	Flavonoids	Shikimates and Phenylpropanoids	False
+CCC(=O)C=CC=CC=CC(CCCCCCCC(=O)O)O	Oxo fatty acids	Fatty Acids and Conjugates	Fatty acids	False
+CCOC(=O)CC(CC(C)C)(C(=O)OCC1=CC=C(C=C1)OC2C(C(C(C(O2)CO)O)O)O)O			Terpenoids	True
+CCOC(=O)C1=CC=C(C=C1)N(CC(=O)N(C)C)C(=O)C	Shikimic acids and derivatives,Simple phenolic acids	Phenolic acids (C6-C1)	Shikimates and Phenylpropanoids	False
+CC1C(C(C(C(O1)OCC2C(C(C(C(O2)OC3=CC(=C4C(=C3)OC(=CC4=O)C5=CC=C(C=C5)O)O)O)O)O)O)O)O	Flavones	Flavonoids	Shikimates and Phenylpropanoids	True
+COC1=CC=C(C=C1)C2CC(=O)OC3=C2C4=C(C(=C3)O)C(=O)C(=CO4)C5=CC(=C(C=C5)OC)OC	Isoflavones	Isoflavonoids	Shikimates and Phenylpropanoids	False
+CC(C)(C)OC(=O)NC(CN1C=CC=N1)C(=O)O	Dipeptides	Small peptides	Amino acids and Peptides	False
+CS(=O)CC1C(C(C(O1)N2C=NC3=C(N=CN=C32)N)O)O	Purine nucleos(t)ides	Nucleosides	Carbohydrates	False
+CCNC(=O)OCC1C(C(C(O1)N2C=NC3=C(N=CN=C32)NC4CCOC4)O)O	Purine nucleos(t)ides	Nucleosides	Carbohydrates	False
+C1=CC=C(C=C1)NC2=CC=CC=C2			Shikimates and Phenylpropanoids	False
+CCCCCC=CCC=CCCCCCCCC(=O)OCC1CO1			Fatty acids	False
+CC(=O)C(CC=C)C(=O)OC	Wax monoesters	Fatty esters	Fatty acids	False
+CCC=CCC=CC=CC(=O)CCCCCCCC(=O)O	Other Octadecanoids	Octadecanoids	Fatty acids	False
+CCCCCCCCCCCCCCCC(=O)OCC=C(C)CCC1C(=C)CCC2C1(CCCC2(C)C(=O)OC)C	Labdane diterpenoids	Diterpenoids	Terpenoids	False
+C(CCC(=O)O)CC=CCC=CCC=CCC=CCCCC(=O)O	Dicarboxylic acids,Unsaturated fatty acids	Fatty Acids and Conjugates	Fatty acids	False
+CCCCCC=CCC=CCCCCCCCC(=O)OCC(CO)O	Monoacylglycerols	Glycerolipids	Fatty acids	False
+CCC(CCC(C)C1CCC2C1(CCC3C2CC=C4C3(CCC=C4)C)C)C(C)C	Stigmastane steroids	Steroids	Terpenoids	False
+CCCCCC=CCC=CCCCCCCCC(=O)OCC1CO1			Fatty acids	False
+CCCCCCCCC=CC=CCCCCCCCCCCCCCCC=CC=CCCCC(=O)OC(CO)CO	Diacylglycerols	Glycerolipids	Fatty acids	False
+C1=CC=C(C=C1)NC2=CC=CC=C2			Shikimates and Phenylpropanoids	False
+CC(=O)OCC1C(C(C(C(O1)OC2C3C(COC3C4=CC5=C(C=C4)OCO5)C(O2)C6=CC7=C(C=C6)OCO7)O)O)O	Furofuranoid lignans	Lignans	Shikimates and Phenylpropanoids	True
+CCC(C=CC=CC=CC(=O)CCCCCCCC(=O)O)O	Oxo fatty acids	Fatty Acids and Conjugates	Fatty acids	False
+CCCCCCCCCCCCCCCCCC(=O)NC1=CC=C(C=C1)O				False
+CC(=O)OC1(CC(C2(C1C(OCC2)OC3C(C(C(C(O3)CO)O)O)O)O)O)C	Iridoids monoterpenoids	Monoterpenoids	Terpenoids	True
+CN(C)CC(CC(=O)O)O	Aminoacids	Small peptides	Amino acids and Peptides	False
+C1CCCCCC(CCCCC1)(C(=O)O)N				False
+COC1=C(C=CC(=C1)CC=C)OOC2=C(C=C(C=C2)CC=C)OC	Cinnamic acids and derivatives,Neolignans	Phenylpropanoids (C6-C3),Lignans	Shikimates and Phenylpropanoids	False
+CCC=CCC=CCC=CCCCCCCCC(=O)O	Unsaturated fatty acids	Fatty Acids and Conjugates	Fatty acids	False
+COC(=O)C(=C1NC(=C(C(=O)OC)C(=O)OC)NC(=C(C(=O)OC)C(=O)OC)N1)C(=O)OC	Wax monoesters	Fatty esters	Fatty acids	False
+CC(=O)OCC1C(C(C(C(O1)OC2C3C(COC3C4=CC5=C(C=C4)OCO5)C(O2)C6=CC7=C(C=C6)OCO7)O)O)O	Furofuranoid lignans	Lignans	Shikimates and Phenylpropanoids	True
+COC1=C(C(=C2C(=C1)OC(=CC2=O)C3=CC=C(C=C3)O)O)C4C(C(C(C(O4)CO)O)O)O	Flavones	Flavonoids	Shikimates and Phenylpropanoids	False
+CCC(C=CC(C)C1CCC2C1(CCC3C2CCC4=CC(=O)CCC34C)C)C(C)C	Stigmastane steroids	Steroids	Terpenoids	False
+CCC=CCC=CCC=CCC=CCCC(=O)CCC=CCC=CCC=CCC=CCC	Hydrocarbons	Fatty acyls	Fatty acids	False
+CC1=CC2=C(C=C1C)N(C3=NC(=O)NC(=O)C3=N2)CC(C(CO)O)O	pteridine alkaloids	Pseudoalkaloids	Alkaloids	False
+CC1=NC=CC(=C1)C(=O)O	Pyridine alkaloids	Nicotinic acid alkaloids	Alkaloids	False
+C1=CC=C2C(=C1)C=CN2CC(=O)NC(CCCNC(=O)N)C(=O)O	Dipeptides	Small peptides	Amino acids and Peptides	False
+CC1=CC2=C(C=C1C)[N+](=C3C(=N2)C(=O)NC(=O)N3)CC(=O)C(C(COP(=O)(O)O)O)O			Alkaloids	False
+CC(=O)C(CC=C)C(=O)OC	Wax monoesters	Fatty esters	Fatty acids	False
+CC(C)(C)OC(=O)N1CC2(C1)CC(=O)CO2			Alkaloids	False
+CC(C(=O)O)NCCO	Aminoacids	Small peptides	Amino acids and Peptides	False
+CCCCCCCCCCCCCCCC(=O)OCC(COP(=O)(O)OCC[N+](C)(C)C)O	Glycerophosphocholines	Glycerophospholipids	Fatty acids	False
+C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C=C(C=C3)O)O	Flavones	Flavonoids	Shikimates and Phenylpropanoids	False
+CC1=CC=C(C=C1)C2OCC3C(O2)C(OC(O3)C4=CC=C(C=C4)C)C(CO)O				False
+CCCCCC=CCC=CCCCCCCCC(=O)NCC(C)C	N-acyl amines	Fatty amides	Fatty acids	False
+CCCCCCCCCCCC[N+](C)(C)[O-]	Hydrocarbons	Fatty acyls	Fatty acids	False
+CCCCCCCCC=CC=CCCCCCCCCCCCCCCC=CC=CCCCC(=O)OC(CO)CO	Diacylglycerols	Glycerolipids	Fatty acids	False
+C(CC(C(=O)O)N)CN=C(N)NC(CC(=O)O)C(=O)O	Aminoacids,Dipeptides	Small peptides	Amino acids and Peptides	False
+CCCCCC=CCC=CCC=CCC1C(O1)CCCC(=O)OC	Epoxyeicosatrienoic acids	Eicosanoids	Fatty acids	False
+CC1=CC(=O)C2=C(O1)C3=C(C4=C(C=CC4=O)C=C3C=C2O)O	Bisnaphthalenes,Naphthalenes and derivatives,Naphthoquinones	Naphthalenes	Polyketides	False
+C1=CC(=CC=C1C(=O)OCC2C(C(C(C(O2)OC3C(OC4=CC(=CC(=C4C3=O)O)O)C5=CC(=C(C=C5)O)O)O)O)O)O	Dihydroflavonols	Flavonoids	Shikimates and Phenylpropanoids	True
+CCCCCCCCCCC(=O)OCC(COC1C(C(C(C(O1)CO)O)O)O)OC(=O)CCCCCCCCCC	Glycosyldiacylglycerols	Glycerolipids	Fatty acids	True
+CC1=C(C2=C(CCC(O2)(C)CCCC(C)CCCC(C)CCC=C(C)C)C(=C1O)C)C	Prenyl quinone meroterpenoids	Meroterpenoids	Terpenoids	False
+CCCCCCCCC=CCCCCCCCC(=O)OCC1CO1			Fatty acids	False
+CC1=C(C(CCC1)(C)C)C=CC(=CC=CC(=CC=CC=C(C)C=CC=C(C)C=CC2=C(CCC(=O)C2(C)C)C)C)C	Carotenoids (C40, β-β)	Carotenoids (C40)	Terpenoids	False
+CCCCCCCCCCCCCCCCCC(=O)OCC1CO1	Wax monoesters	Fatty esters	Fatty acids	False
+CC12CCC(=O)CC1CCC3C2CCC4(C3CCC4OCC5=CC=CC=C5)C	Androstane steroids	Steroids	Terpenoids	False
+CCCCCC=CCC=CCCCCCCCC(=O)OCC1CO1			Fatty acids	False
+CC1=C(C(CC(C1)O)(C)C)C=CC(=CC=CC(=CC=CC=C(C)C=CC=C(C)C=CC2=C(C(=O)C(CC2(C)C)O)C)C)C	Carotenoids (C40, β-β)	Carotenoids (C40)	Terpenoids	False
+CCCCCC#COC(=O)OC	Wax monoesters	Fatty esters	Fatty acids	False
+C1=CC=C(C=C1)NC2=CC=CC=C2			Shikimates and Phenylpropanoids	False
+CCCCCCCCCCCCCCCC(C(CO)N)O	Sphingoid bases	Sphingolipids	Fatty acids	False
+CC(C)OC(=O)NCCOC(=O)OCCNC(=O)OC(C)C	Wax monoesters	Fatty esters	Fatty acids	False
+CCC=CCC=CC=CC(=O)CCCCCCCC(=O)O	Other Octadecanoids	Octadecanoids	Fatty acids	False
+CC(=O)OC1=CC2=C(C(=C1)OC(=O)C)C(=O)C=C(O2)C3=CC=C(C=C3)OC	Flavones	Flavonoids	Shikimates and Phenylpropanoids	False
+CC(=O)C(CC=C)C(=O)OC	Wax monoesters	Fatty esters	Fatty acids	False
+CCC(=O)C=CC=CC=CC(CCCCCCCC(=O)O)O	Oxo fatty acids	Fatty Acids and Conjugates	Fatty acids	False
+COC(=O)CC(C1=CC=C(C=C1)C(=O)OC)C2=C(C=C(C3=C2OC(=CC3=O)C4=CC=CC=C4)O)O	Flavones	Flavonoids	Shikimates and Phenylpropanoids	False
+CC1=CCCC2C1(CC(C(C2(C)CCC(=CCO)C)COC(=O)CCC(=O)O)O)C	Colensane and Clerodane diterpenoids	Diterpenoids	Terpenoids	False
+CN(C(=O)SCC(C(=O)NCC(=O)O)NC(=O)CCC(C(=O)O)N)O	Tripeptides	Small peptides	Amino acids and Peptides	False
+CCCCCC=CCC=CCC=CCC=CCCCC(=O)OC1CC(OC1CCCCC)C(CCCCCCCC=C)O			Fatty acids	False
+CCCCCCCCCCCCCCCC(=O)OCC=C(C)CCC1C(=C)CCC2C1(CCCC2(C)C(=O)OC)C	Labdane diterpenoids	Diterpenoids	Terpenoids	False
+CCCCCC=CCC=CCC=CCC1C(O1)CCCC(=O)OC	Epoxyeicosatrienoic acids	Eicosanoids	Fatty acids	False
+CCC=CCC=CCC=CCCCCCCCC(=O)OCC(CO)O	Monoacylglycerols	Glycerolipids	Fatty acids	False
+CC(=O)NC1=CC(=CC=C1)N(CCO)CCO			Alkaloids	False
+COC1=C(C=CC(=C1)C2=CC(=O)C3=C(O2)C=C(C(=C3O)C4C(C(C(C(O4)CO)O)O)O)O)O	Flavones	Flavonoids	Shikimates and Phenylpropanoids	False
+C(CCCC(=O)NCC(=O)O)CCCC(=O)NCC(=O)O	N-acyl amines	Fatty amides	Amino acids and Peptides,Fatty acids	False
+CCCCCCCCCCCCCCCC(=O)OCC=C(C)CCC1C(=C)CCC2C1(CCCC2(C)C(=O)OC)C	Labdane diterpenoids	Diterpenoids	Terpenoids	False
+CCCCCC=CCC=CCCCCCCCC(=O)OCC1CO1			Fatty acids	False
+CCCCCC=CCC=CCCCCCCCC(=O)OCC1CO1			Fatty acids	False
+CC(=O)N(C1=CC(=C(C=C1)OC)NC(C)(O)O)C(C)(O)O	Simple amide alkaloids	Peptide alkaloids	Alkaloids	False
+C1CNC2=CC=CC=C21	Simple indole alkaloids	Tryptophan alkaloids	Alkaloids	False
+CC(=CCCC(=CCCC(=CCCC(=CCC1=CC(=O)C=CC1=O)C)C)C)C	Prenyl quinone meroterpenoids	Meroterpenoids	Terpenoids	False
+C1=CC(=CC=C1N)OC2C(C(C(C(O2)CO)OC3C(C(C(C(O3)CO)O)O)O)O)O				True
+CCCCCCCCCC(=O)CCCCCCCCC(=O)O	Other Octadecanoids	Octadecanoids	Fatty acids	False
+CCCCCCCCCCCCCCCCCC(=O)NCCNC(=O)CCCCCCCCCCCCCCCCC	N-acyl amines	Fatty amides	Fatty acids	False
+CCCCCCCCC=CC=CCCCCCCCCCCCCCCC=CC=CCCCC(=O)OCC(CO)O	Diacylglycerols	Glycerolipids	Fatty acids	False
+CC(C)CC(C(=O)O)N	Aminoacids	Small peptides	Amino acids and Peptides	False
+CCCCN1C2=C(N=C1NCCN(C)C)N(C(=O)NC2=O)C	Purine alkaloids	Pseudoalkaloids	Alkaloids	False
+CCC(C=CC=CC=CC(=O)CCCCCCCC(=O)O)O	Oxo fatty acids	Fatty Acids and Conjugates	Fatty acids	False
+CC12CCC(CC1C3=CCC4C5(CCC(C(C5CCC4(C3(CC2)C)C)(C)C(=O)O)O)C)(C)C(=O)OC	Oleanane triterpenoids	Triterpenoids	Terpenoids	False
+CC1C(C(C(C(O1)OC2C(C(C(OC2C3=C(C4=C(C=C3O)OC(=CC4=O)C5=CC=C(C=C5)OC)O)CO)O)O)O)O)O	Flavones	Flavonoids	Shikimates and Phenylpropanoids	True
+C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C=C(C(=C3O)C4C(C(C(C(O4)CO)O)O)O)O)O	Flavones	Flavonoids	Shikimates and Phenylpropanoids	False
+CCOC(=O)C1=CC=C(C=C1)N(CC(=O)N(C)C)C(=O)C	Shikimic acids and derivatives,Simple phenolic acids	Phenolic acids (C6-C1)	Shikimates and Phenylpropanoids	False
+CCCCCCCCC=CC=CCCCCCCCCCCCCCCC=CC=CCCCC(=O)OC(CO)CO	Diacylglycerols	Glycerolipids	Fatty acids	False
+C[N+](C)(C)CCOP(=O)(O)O			Fatty acids	False
+CCCCCCCCCCCCCCCC(=O)OCC=C(C)CCC1C(=C)CCC2C1(CCCC2(C)C(=O)OC)C	Labdane diterpenoids	Diterpenoids	Terpenoids	False
+CC1C(C(C(C(O1)OC2C(C(C(OC2C3=C(C=C4C(=C3O)C(=O)C=C(O4)C5=CC=C(C=C5)O)OC)CO)O)O)O)O)O	Flavones	Flavonoids	Shikimates and Phenylpropanoids	True
+C=CC1=CC(=CC(=C1)OC2C(C(C(C(O2)C(=O)O)O)O)O)O			Shikimates and Phenylpropanoids	True
+CCCCCCCCCC(=O)CCCCCCCCC(=O)O	Other Octadecanoids	Octadecanoids	Fatty acids	False
+CC1(C2CCC3(C(C2(CCC1O)C)CC=C4C3(CCC5(C4CC(CC5)(C)C(=O)OC)C(=O)O)C)C)C	Oleanane triterpenoids,Ursane and Taraxastane triterpenoids	Triterpenoids	Terpenoids	False
+CCCCCCCCCCOC(=O)C1=CC=CC=C1C(=O)OCCCCCCCC	Shikimic acids and derivatives,Simple phenolic acids	Phenolic acids (C6-C1)	Shikimates and Phenylpropanoids	False
+CCCCCCCCCC(=O)CCCCCCCCC(=O)O	Other Octadecanoids	Octadecanoids	Fatty acids	False
+CCCCCCCCCC(=O)CCCCCCCCC(=O)O	Other Octadecanoids	Octadecanoids	Fatty acids	False
+CC1=C2CC(CCC2(C3(CCC4(C3)CCC5CCCC56C4(CCC6)O)C=C1)C)C(=C)C		Diterpenoids	Terpenoids	False
+CC1=CC=C(C=C1)NC(=O)C(C)NC(=O)C2CCN(CC2)C(=O)C(CC3=CC=CC=C3)NC(=O)OC(C)(C)C		Small peptides	Amino acids and Peptides	False
+CC1=CC(=C(C(=C1)C2CCCCCCC2)O)CC3=C(C(=CC(=C3)C)C4CCCCCCC4)O				False
+CCC(=O)C(=COC(=O)C)C	Oxygenated hydrocarbons	Fatty acyls	Fatty acids	False
+C=C(CC(=O)O)C(=C)CC(=O)O	Dicarboxylic acids,Unsaturated fatty acids	Fatty Acids and Conjugates	Fatty acids	False
+CCCCCCCCCC(=O)CCCCCCCCC(=O)O	Other Octadecanoids	Octadecanoids	Fatty acids	False
+CCCCCCCC#CC#CCCCCCCC(=O)O	Unsaturated fatty acids	Fatty Acids and Conjugates	Fatty acids	False
+CC(CCC(=O)O)C1CCC2C1(C(=O)CC3C2C(CC4C3(CCC(=O)C4)C)O)C	Cholane steroids	Steroids	Terpenoids	False
+CC1=C(C(CC(C1)O)(C)C)C=CC(=CC=CC(=CC2C(O2)C=C(C)C=CC=C(C)C=CC3C(=CC(CC3(C)C)O)C)C)C	Carotenoids (C40, β-ε)	Carotenoids (C40)	Terpenoids	False
+CCCCCCCCC=CC=CCCCCCCCCCCCCCCC=CC=CCCCC(=O)OC(CO)CO	Diacylglycerols	Glycerolipids	Fatty acids	False
+CC12CCC3C4(CCC(C(C4CCC3(C1)C=C2)(C)C(=O)O)O)C	Beyerane diterpenoids,Norkaurane diterpenoids	Diterpenoids	Terpenoids	False
+CNCCN1C(=O)N(C(=O)N(C1=O)CCNC)CCNC	Phenylethylamines	Tyrosine alkaloids	Alkaloids	False
+CC(C)CC(C(CS(=O)(=O)C)O)NC(=O)C(CC(C)C)NC(=O)C(CC(C)C)NC(=O)C	Tripeptides	Small peptides	Amino acids and Peptides	False
+CCCCCCCCCCCCCCCCCC(=O)OCC(COP(=O)(O)OCC[N+](C)(C)C)O	Glycerophosphocholines	Glycerophospholipids	Fatty acids	False
+CCC(C=CC=CC=CC(=O)CCCCCCCC(=O)O)O	Oxo fatty acids	Fatty Acids and Conjugates	Fatty acids	False
+C1=CC=C(C=C1)C(=O)OC2C(C(C(OC2C3=C(C4=C(C=C3O)OC5=CC(=C(C=C5C4=O)O)O)O)CO)O)O	Plant xanthones	Xanthones	Shikimates and Phenylpropanoids	False
+COC1=C(C(=C(C=C1)C(=O)C2=CC(=C(C(=C2)OC)OC)OC)O)O	Benzophenones	Aromatic polyketides	Polyketides	False
+COC1=CC2=C(C(=C1)OC)C(=O)C=C(O2)C3=CC4=C(C=C3)OCO4	Flavones	Flavonoids	Shikimates and Phenylpropanoids	False
+CC1=CC(CC(C1C=CC(=CC=CC(=CC=CC=C(C)C=CC=C(C)C=CC2=C(C(=O)C(CC2(C)C)O)C)C)C)(C)C)O	Carotenoids (C40, β-ε)	Carotenoids (C40)	Terpenoids	False
+CCCCCC=CC=CC(=O)CCCCCCCC(=O)O	Other Octadecanoids,Oxo fatty acids,Unsaturated fatty acids	Fatty Acids and Conjugates,Octadecanoids	Fatty acids	False
+CCCCCCCCCCCCCC(C(CO)N)O	Sphingoid bases	Sphingolipids	Fatty acids	False
+CCCCCC=CCC=CCC=CCC1C(O1)CCCC(=O)OC	Epoxyeicosatrienoic acids	Eicosanoids	Fatty acids	False
+COC1=C(C=CC(=C1)C(CC(=O)OC)C2=C(C=C(C3=C2OC(=C(C3=O)O)C4=CC(=C(C=C4)O)O)O)O)O	Flavonols	Flavonoids	Shikimates and Phenylpropanoids	False
+CC=CC=CC#CC=CC=CCCCCC(=O)CCOC(=O)C			Fatty acids	False
+C1=NC2=NC=NC(=C2N1)N	Purine alkaloids	Pseudoalkaloids	Alkaloids	False
+CC1C(=O)C(C(C(O1)C2=C(C3=C(C=C2O)OC(=CC3=O)C4=CC(=C(C=C4)O)OC)O)O)O	Flavones	Flavonoids	Shikimates and Phenylpropanoids	False
+CCCCCCCC(=O)C1C(=O)CCCC1=O	Simple cyclic polyketides	Cyclic polyketides	Polyketides	False
+CC1=C(C(=NN1)N)C2=CN=CC=C2	Pyridine alkaloids	Nicotinic acid alkaloids	Alkaloids	False
+CC1=CC2=CC(=C(C(=C2C(=O)O1)O)C(CC(C(=O)O)OC)C3=C(C=C4C=C(OC(=O)C4=C3O)C)O)O	Isocoumarins	Coumarins	Shikimates and Phenylpropanoids	False
+CC(=O)C(CC=C)C(=O)OC	Wax monoesters	Fatty esters	Fatty acids	False
+C(CC(=O)C[N+]#N)CN(CCN(CCC(=O)O)[N+](=O)[O-])[N+](=O)[O-]	Polyamines	Ornithine alkaloids	Alkaloids	False
+CCCCCCCCC=CC=CCCCCCCCCCCCCCCC=CC=CCCCC(=O)OC(CO)CO	Diacylglycerols	Glycerolipids	Fatty acids	False
+CCOC(=O)C1=C(NC(=C1C)C=O)C			Alkaloids	False
+CN(C(=O)SCC(C(=O)NCC(=O)O)NC(=O)CCC(C(=O)O)N)O	Tripeptides	Small peptides	Amino acids and Peptides	False
+CN1C(=O)C(=CC2=CC(=C(C=C2)O)[N+](=O)[O-])NC1=S	Imidazole alkaloids	Histidine alkaloids	Alkaloids	False
+CC(COC1CC2(C(C1(C)O)C(OC=C2C(=O)OC)OC3C(C(C(C(O3)CO)O)O)O)O)O	Iridoids monoterpenoids	Monoterpenoids	Terpenoids	True
+CCCCCC=CCC=CCC=CCC=CCCCC(=O)OC1CC(OC1CCCCC)C(CCCCCCCC=C)O			Fatty acids	False
+COP(=O)(OC)OC1=CC(=C(C=C1)[N+](=O)[O-])CO			Polyketides	False
+CCCCCC=CCC=CCC=CCC=CCCCC(=O)OC1CC(OC1CCCCC)C(CCCCCCCC=C)O			Fatty acids	False
+CC(=O)C(CC=C)C(=O)OC	Wax monoesters	Fatty esters	Fatty acids	False
+CCC(C)C(C(=O)O)NC(CCC(=O)O)C(=O)O	Aminoacids	Small peptides	Amino acids and Peptides	False
+CC(C(C(=O)O)NC(=O)C(CC1=CC=C(C=C1)O)N)O	Dipeptides	Small peptides	Amino acids and Peptides	False
+CC1=C(C(CC(C1=O)O)(C)C)C=CC(=CC=CC(=CC=CC=C(C)C=CC=C(C)C=CC23C(CC(CC2(O3)C)O)(C)C)C)C	Carotenoids (C40, β-β)	Carotenoids (C40)	Terpenoids	False
+C1=CC=C(C=C1)OC2C(C(C(C(O2)C(=O)O)O)O)O	Simple phenolic acids	Phenolic acids (C6-C1)	Shikimates and Phenylpropanoids	True
+CCOC(=O)C1=CC=CC=C1N(CC(=O)N(C)C)C(=O)C			Alkaloids,Shikimates and Phenylpropanoids	False
+CCC(C)C(C(=O)O)NC(=O)C1C(S(=O)(=O)C2N1C(=O)C2)(C)C	Dipeptides	Small peptides	Amino acids and Peptides	False
+COC1C(C(OC(C1O)OC2=C3COC(=O)C3=C(C4=CC(=C(C=C42)OC)OC)C5=CC6=C(C=C5)OCO6)CO)O	Arylnaphthalene and aryltetralin lignans	Lignans	Shikimates and Phenylpropanoids	True
+C1=CC(=CC=C1C(=O)C2=C(C=C(C(=C2O)C3C(C(C(C(O3)CO)O)O)OC(=O)C4=CC=C(C=C4)O)O)O)O	Acyl phloroglucinols	Phloroglucinols	Polyketides	False
+CC#CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=O)(O)O)O	Pyrimidine nucleos(t)ides	Nucleosides	Carbohydrates	False
+CCCCCCCCCCCCC=CCCC1C(O1)CCC2C(O2)CCCCCCCCCCC3=CC(OC3=O)C	Acetogenins	Linear polyketides	Polyketides	False
+CC(C)(C#N)C1C(C(C(C(O1)CO)O)O)O	Cyanogenic glycosides	Amino acid glycosides	Amino acids and Peptides	False
+CCC(C)CCCCC(=O)C1=C(COC1=O)COP(=O)(O)O			Polyketides	False
+CC(=O)C(CC=C)C(=O)OC	Wax monoesters	Fatty esters	Fatty acids	False
+CC(=O)OC1CCC2(C(C1(C)C)CCC3(C2CC=C4C3(CCC5(C4C(C(CC5)(C)C)O)C(=O)OC)C)C)C	Oleanane triterpenoids	Triterpenoids	Terpenoids	False
+CC1=C(C(CCC1)(C)C)C=CC(=CC=CC(=CC=CC=C(C)C=CC=C(C)C=CC2=C(CCC(=O)C2(C)C)C)C)C	Carotenoids (C40, β-β)	Carotenoids (C40)	Terpenoids	False
+CCCCC(=O)C=CC=CC(=O)CCCCCCCC(=O)O	Other Octadecanoids	Octadecanoids	Fatty acids	False
+C1=CC=C(C=C1)NC2=CC=CC=C2			Shikimates and Phenylpropanoids	False
+CCCCCCCCC=CC=CCCCCCCCCCCCCCCC=CC=CCCCC(=O)OCC(CO)O	Diacylglycerols	Glycerolipids	Fatty acids	False
+CCCCCCCCCCCCCCCCC=C(OC(=O)C)OS(=O)(=O)O			Fatty acids	False
+C1=CC=C(C=C1)NC2=CC=CC=C2			Shikimates and Phenylpropanoids	False
+COC1=CC2=C(C(=C1)OC)C(=O)C=C(O2)C3=CC4=C(C=C3)OCO4	Flavones	Flavonoids	Shikimates and Phenylpropanoids	False
+C1=CC=C2C(=C1)C(=CN2)C=O	Simple indole alkaloids	Tryptophan alkaloids	Alkaloids	False
